@@ -22,7 +22,8 @@ Rezultatele experimentale oferă dovezi ale beneficiilor și limitărilor meto- 
 
 Folder-ul mare conține:
   - programele și fișierele cu conexiune directă cu acesta în folder-ul `Program`
-  - seturile de date și excel-uri și grafice în folder-ul `Seturi de date și analiză finală`
+  - seturile de date și excel-uri și grafice sunt fiecare fie în câte o arhivă, fie în foldere individuale cu nume.
+  - **IMPORTANT** mai există două fișiere de date care nu rulează, mai exact `random_500` și `set_validare_4` care au dimensiuni prea mari pentru GitHub. în caz că se doresc a fi studiate rog să primesc e-mail pentru a le trimite prin WeTransfer 
 
 ## Instrucțiuni de instalare și rulare 📖
 
