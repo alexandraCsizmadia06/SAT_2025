@@ -1,0 +1,2500 @@
+Set 1:
+  Resolution: Prea dificilă, 20821 clauze generate, 69.598397 sec, CPU: 61.171875 sec, Mem: 2.36 MB
+  DP: Satisfiable, 177 pași, 0.359311 sec, CPU: 0.312500 sec, Mem: 0.76 MB
+  DPLL: Satisfiable, 69 pași, 0.049676 sec, CPU: 0.031250 sec, Mem: 0.48 MB
+
+Set 2:
+  Resolution: Unsatisfiable, 200 clauze generate, 5.840386 sec, CPU: 5.453125 sec, Mem: 1.78 MB
+  DP: Unsatisfiable, 6 pași, 0.348209 sec, CPU: 0.203125 sec, Mem: 0.95 MB
+  DPLL: Unsatisfiable, 2 pași, 0.020225 sec, CPU: 0.015625 sec, Mem: 0.00 MB
+
+Set 3:
+  Resolution: Prea dificilă, 23867 clauze generate, 80.810637 sec, CPU: 67.921875 sec, Mem: 2.17 MB
+  DP: Satisfiable, 187 pași, 0.495758 sec, CPU: 0.453125 sec, Mem: 0.66 MB
+  DPLL: Satisfiable, 71 pași, 0.066598 sec, CPU: 0.046875 sec, Mem: 0.50 MB
+
+Set 4:
+  Resolution: Prea dificilă, 27112 clauze generate, 85.849172 sec, CPU: 74.562500 sec, Mem: 2.88 MB
+  DP: Satisfiable, 147 pași, 0.552743 sec, CPU: 0.515625 sec, Mem: 0.75 MB
+  DPLL: Satisfiable, 73 pași, 0.041124 sec, CPU: 0.031250 sec, Mem: 0.00 MB
+
+Set 5:
+  Resolution: Prea dificilă, 20743 clauze generate, 70.480707 sec, CPU: 58.578125 sec, Mem: 2.36 MB
+  DP: Satisfiable, 175 pași, 0.260347 sec, CPU: 0.187500 sec, Mem: 0.66 MB
+  DPLL: Satisfiable, 76 pași, 0.040948 sec, CPU: 0.031250 sec, Mem: 0.03 MB
+
+Set 6:
+  Resolution: Prea dificilă, 24827 clauze generate, 74.681298 sec, CPU: 64.390625 sec, Mem: 2.23 MB
+  DP: Satisfiable, 185 pași, 0.707760 sec, CPU: 0.562500 sec, Mem: 0.86 MB
+  DPLL: Satisfiable, 71 pași, 0.044757 sec, CPU: 0.031250 sec, Mem: 0.00 MB
+
+Set 7:
+  Resolution: Prea dificilă, 24404 clauze generate, 81.654730 sec, CPU: 68.484375 sec, Mem: 2.09 MB
+  DP: Satisfiable, 176 pași, 0.610432 sec, CPU: 0.515625 sec, Mem: 0.29 MB
+  DPLL: Satisfiable, 76 pași, 0.093881 sec, CPU: 0.046875 sec, Mem: 0.99 MB
+
+Set 8:
+  Resolution: Prea dificilă, 25683 clauze generate, 81.088568 sec, CPU: 68.843750 sec, Mem: 3.08 MB
+  DP: Satisfiable, 139 pași, 0.604379 sec, CPU: 0.484375 sec, Mem: 0.30 MB
+  DPLL: Satisfiable, 72 pași, 0.047062 sec, CPU: 0.031250 sec, Mem: 0.00 MB
+
+Set 9:
+  Resolution: Prea dificilă, 22850 clauze generate, 75.016937 sec, CPU: 63.406250 sec, Mem: 1.50 MB
+  DP: Satisfiable, 173 pași, 0.626014 sec, CPU: 0.531250 sec, Mem: 0.73 MB
+  DPLL: Satisfiable, 73 pași, 0.053241 sec, CPU: 0.046875 sec, Mem: 0.91 MB
+
+Set 10:
+  Resolution: Prea dificilă, 23629 clauze generate, 76.824969 sec, CPU: 65.687500 sec, Mem: 2.46 MB
+  DP: Satisfiable, 156 pași, 0.674417 sec, CPU: 0.578125 sec, Mem: 0.65 MB
+  DPLL: Satisfiable, 72 pași, 0.051780 sec, CPU: 0.046875 sec, Mem: 0.48 MB
+
+Set 11:
+  Resolution: Prea dificilă, 26939 clauze generate, 80.048592 sec, CPU: 72.031250 sec, Mem: 1.99 MB
+  DP: Satisfiable, 167 pași, 0.366219 sec, CPU: 0.281250 sec, Mem: 0.60 MB
+  DPLL: Satisfiable, 63 pași, 0.036984 sec, CPU: 0.015625 sec, Mem: 0.02 MB
+
+Set 12:
+  Resolution: Prea dificilă, 25177 clauze generate, 85.892935 sec, CPU: 75.062500 sec, Mem: 2.71 MB
+  DP: Satisfiable, 155 pași, 0.534596 sec, CPU: 0.515625 sec, Mem: 0.74 MB
+  DPLL: Satisfiable, 73 pași, 0.062497 sec, CPU: 0.031250 sec, Mem: 0.61 MB
+
+Set 13:
+  Resolution: Unsatisfiable, 200 clauze generate, 0.048262 sec, CPU: 0.015625 sec, Mem: 1.06 MB
+  DP: Unsatisfiable, 129 pași, 0.741273 sec, CPU: 0.515625 sec, Mem: 0.00 MB
+  DPLL: Unsatisfiable, 2 pași, 0.009596 sec, CPU: 0.000000 sec, Mem: 0.12 MB
+
+Set 14:
+  Resolution: Prea dificilă, 27940 clauze generate, 81.986988 sec, CPU: 73.171875 sec, Mem: 1.76 MB
+  DP: Satisfiable, 139 pași, 0.480564 sec, CPU: 0.484375 sec, Mem: 0.51 MB
+  DPLL: Satisfiable, 66 pași, 0.047768 sec, CPU: 0.046875 sec, Mem: 0.00 MB
+
+Set 15:
+  Resolution: Prea dificilă, 20218 clauze generate, 56.197029 sec, CPU: 50.906250 sec, Mem: 0.03 MB
+  DP: Satisfiable, 179 pași, 0.431421 sec, CPU: 0.406250 sec, Mem: 0.68 MB
+  DPLL: Satisfiable, 78 pași, 0.045938 sec, CPU: 0.046875 sec, Mem: 0.00 MB
+
+Set 16:
+  Resolution: Prea dificilă, 25396 clauze generate, 75.012244 sec, CPU: 68.515625 sec, Mem: 0.66 MB
+  DP: Satisfiable, 165 pași, 0.489316 sec, CPU: 0.421875 sec, Mem: 0.62 MB
+  DPLL: Satisfiable, 69 pași, 0.061829 sec, CPU: 0.046875 sec, Mem: 0.07 MB
+
+Set 17:
+  Resolution: Prea dificilă, 25772 clauze generate, 74.757178 sec, CPU: 67.343750 sec, Mem: 0.45 MB
+  DP: Satisfiable, 167 pași, 0.510068 sec, CPU: 0.406250 sec, Mem: 0.86 MB
+  DPLL: Satisfiable, 67 pași, 0.070837 sec, CPU: 0.062500 sec, Mem: 0.00 MB
+
+Set 18:
+  Resolution: Prea dificilă, 23353 clauze generate, 67.680993 sec, CPU: 63.390625 sec, Mem: 0.00 MB
+  DP: Satisfiable, 144 pași, 0.487532 sec, CPU: 0.375000 sec, Mem: 0.61 MB
+  DPLL: Satisfiable, 68 pași, 0.047883 sec, CPU: 0.031250 sec, Mem: 0.00 MB
+
+Set 19:
+  Resolution: Unsatisfiable, 200 clauze generate, 2.088277 sec, CPU: 1.921875 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 168 pași, 0.520450 sec, CPU: 0.437500 sec, Mem: 0.63 MB
+  DPLL: Unsatisfiable, 2 pași, 0.007016 sec, CPU: 0.000000 sec, Mem: 0.00 MB
+
+Set 20:
+  Resolution: Prea dificilă, 21004 clauze generate, 63.072180 sec, CPU: 56.312500 sec, Mem: 1.41 MB
+  DP: Satisfiable, 146 pași, 0.697245 sec, CPU: 0.609375 sec, Mem: 0.90 MB
+  DPLL: Satisfiable, 75 pași, 0.042531 sec, CPU: 0.031250 sec, Mem: 0.00 MB
+
+Set 21:
+  Resolution: Prea dificilă, 23917 clauze generate, 70.902998 sec, CPU: 66.718750 sec, Mem: 1.13 MB
+  DP: Satisfiable, 191 pași, 0.608730 sec, CPU: 0.562500 sec, Mem: 0.56 MB
+  DPLL: Satisfiable, 75 pași, 0.049610 sec, CPU: 0.046875 sec, Mem: 0.26 MB
+
+Set 22:
+  Resolution: Prea dificilă, 25034 clauze generate, 77.718676 sec, CPU: 70.812500 sec, Mem: 0.00 MB
+  DP: Satisfiable, 180 pași, 0.492963 sec, CPU: 0.468750 sec, Mem: 0.90 MB
+  DPLL: Satisfiable, 80 pași, 0.051371 sec, CPU: 0.046875 sec, Mem: 0.00 MB
+
+Set 23:
+  Resolution: Prea dificilă, 24205 clauze generate, 74.596237 sec, CPU: 67.250000 sec, Mem: 0.44 MB
+  DP: Satisfiable, 159 pași, 0.626285 sec, CPU: 0.562500 sec, Mem: 0.04 MB
+  DPLL: Satisfiable, 75 pași, 0.046215 sec, CPU: 0.046875 sec, Mem: 0.11 MB
+
+Set 24:
+  Resolution: Prea dificilă, 21558 clauze generate, 63.291839 sec, CPU: 57.500000 sec, Mem: 0.59 MB
+  DP: Satisfiable, 121 pași, 0.817724 sec, CPU: 0.687500 sec, Mem: 0.78 MB
+  DPLL: Satisfiable, 71 pași, 0.040595 sec, CPU: 0.046875 sec, Mem: 0.02 MB
+
+Set 25:
+  Resolution: Unsatisfiable, 200 clauze generate, 17.973890 sec, CPU: 16.890625 sec, Mem: 0.05 MB
+  DP: Unsatisfiable, 170 pași, 0.604771 sec, CPU: 0.515625 sec, Mem: 1.03 MB
+  DPLL: Unsatisfiable, 2 pași, 0.006845 sec, CPU: 0.000000 sec, Mem: 0.00 MB
+
+Set 26:
+  Resolution: Prea dificilă, 22993 clauze generate, 69.968309 sec, CPU: 62.687500 sec, Mem: 0.00 MB
+  DP: Satisfiable, 176 pași, 0.604183 sec, CPU: 0.546875 sec, Mem: 0.49 MB
+  DPLL: Satisfiable, 76 pași, 0.043330 sec, CPU: 0.046875 sec, Mem: 0.20 MB
+
+Set 27:
+  Resolution: Prea dificilă, 26248 clauze generate, 78.170593 sec, CPU: 71.328125 sec, Mem: 0.00 MB
+  DP: Satisfiable, 159 pași, 0.711299 sec, CPU: 0.687500 sec, Mem: 0.33 MB
+  DPLL: Satisfiable, 74 pași, 0.046942 sec, CPU: 0.015625 sec, Mem: 0.56 MB
+
+Set 28:
+  Resolution: Unsatisfiable, 200 clauze generate, 6.688765 sec, CPU: 5.796875 sec, Mem: 1.07 MB
+  DP: Unsatisfiable, 187 pași, 0.448925 sec, CPU: 0.421875 sec, Mem: 0.80 MB
+  DPLL: Unsatisfiable, 2 pași, 0.002882 sec, CPU: 0.000000 sec, Mem: 0.51 MB
+
+Set 29:
+  Resolution: Prea dificilă, 20614 clauze generate, 53.432907 sec, CPU: 49.140625 sec, Mem: 0.00 MB
+  DP: Satisfiable, 185 pași, 0.912379 sec, CPU: 0.859375 sec, Mem: 0.31 MB
+  DPLL: Satisfiable, 75 pași, 0.061514 sec, CPU: 0.062500 sec, Mem: 0.86 MB
+
+Set 30:
+  Resolution: Prea dificilă, 25501 clauze generate, 72.625103 sec, CPU: 66.781250 sec, Mem: 1.53 MB
+  DP: Satisfiable, 183 pași, 0.410682 sec, CPU: 0.421875 sec, Mem: 0.30 MB
+  DPLL: Satisfiable, 65 pași, 0.048891 sec, CPU: 0.031250 sec, Mem: 0.00 MB
+
+Set 31:
+  Resolution: Prea dificilă, 22974 clauze generate, 71.351420 sec, CPU: 67.390625 sec, Mem: 0.43 MB
+  DP: Satisfiable, 163 pași, 0.545217 sec, CPU: 0.406250 sec, Mem: 0.65 MB
+  DPLL: Satisfiable, 74 pași, 0.066804 sec, CPU: 0.046875 sec, Mem: 0.00 MB
+
+Set 32:
+  Resolution: Unsatisfiable, 200 clauze generate, 0.915808 sec, CPU: 0.828125 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 168 pași, 0.478906 sec, CPU: 0.484375 sec, Mem: 0.82 MB
+  DPLL: Unsatisfiable, 2 pași, 0.035344 sec, CPU: 0.000000 sec, Mem: 0.52 MB
+
+Set 33:
+  Resolution: Unsatisfiable, 200 clauze generate, 5.606408 sec, CPU: 5.046875 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 155 pași, 0.586707 sec, CPU: 0.546875 sec, Mem: 0.54 MB
+  DPLL: Unsatisfiable, 2 pași, 0.004101 sec, CPU: 0.015625 sec, Mem: 0.43 MB
+
+Set 34:
+  Resolution: Prea dificilă, 24780 clauze generate, 76.040432 sec, CPU: 71.703125 sec, Mem: 0.00 MB
+  DP: Satisfiable, 169 pași, 0.594059 sec, CPU: 0.453125 sec, Mem: 1.09 MB
+  DPLL: Satisfiable, 68 pași, 0.045106 sec, CPU: 0.046875 sec, Mem: 0.00 MB
+
+Set 35:
+  Resolution: Unsatisfiable, 200 clauze generate, 0.772097 sec, CPU: 0.640625 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 174 pași, 0.563513 sec, CPU: 0.546875 sec, Mem: 0.61 MB
+  DPLL: Unsatisfiable, 2 pași, 0.004596 sec, CPU: 0.015625 sec, Mem: 0.26 MB
+
+Set 36:
+  Resolution: Prea dificilă, 23289 clauze generate, 69.776025 sec, CPU: 66.125000 sec, Mem: 0.00 MB
+  DP: Satisfiable, 180 pași, 0.671630 sec, CPU: 0.531250 sec, Mem: 0.54 MB
+  DPLL: Satisfiable, 75 pași, 0.059712 sec, CPU: 0.062500 sec, Mem: 0.00 MB
+
+Set 37:
+  Resolution: Unsatisfiable, 200 clauze generate, 49.263163 sec, CPU: 46.796875 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 185 pași, 0.479613 sec, CPU: 0.406250 sec, Mem: 0.71 MB
+  DPLL: Unsatisfiable, 2 pași, 0.007993 sec, CPU: 0.015625 sec, Mem: 0.50 MB
+
+Set 38:
+  Resolution: Unsatisfiable, 200 clauze generate, 48.939119 sec, CPU: 46.812500 sec, Mem: 0.02 MB
+  DP: Unsatisfiable, 157 pași, 0.448399 sec, CPU: 0.406250 sec, Mem: 0.04 MB
+  DPLL: Unsatisfiable, 2 pași, 0.004745 sec, CPU: 0.000000 sec, Mem: 0.45 MB
+
+Set 39:
+  Resolution: Prea dificilă, 25986 clauze generate, 80.503754 sec, CPU: 75.000000 sec, Mem: 0.00 MB
+  DP: Satisfiable, 158 pași, 0.626652 sec, CPU: 0.593750 sec, Mem: 0.84 MB
+  DPLL: Satisfiable, 68 pași, 0.042939 sec, CPU: 0.046875 sec, Mem: 0.35 MB
+
+Set 40:
+  Resolution: Prea dificilă, 23831 clauze generate, 74.729471 sec, CPU: 69.156250 sec, Mem: 0.66 MB
+  DP: Satisfiable, 163 pași, 0.563767 sec, CPU: 0.484375 sec, Mem: 0.43 MB
+  DPLL: Satisfiable, 65 pași, 0.047980 sec, CPU: 0.015625 sec, Mem: 0.16 MB
+
+Set 41:
+  Resolution: Unsatisfiable, 200 clauze generate, 16.758852 sec, CPU: 15.984375 sec, Mem: 0.97 MB
+  DP: Unsatisfiable, 12 pași, 0.360634 sec, CPU: 0.343750 sec, Mem: 0.88 MB
+  DPLL: Unsatisfiable, 2 pași, 0.018863 sec, CPU: 0.000000 sec, Mem: 0.36 MB
+
+Set 42:
+  Resolution: Prea dificilă, 25616 clauze generate, 75.361099 sec, CPU: 72.031250 sec, Mem: 0.92 MB
+  DP: Satisfiable, 157 pași, 0.600679 sec, CPU: 0.484375 sec, Mem: 0.59 MB
+  DPLL: Satisfiable, 68 pași, 0.045614 sec, CPU: 0.046875 sec, Mem: 0.00 MB
+
+Set 43:
+  Resolution: Unsatisfiable, 200 clauze generate, 1.214146 sec, CPU: 1.046875 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 188 pași, 0.466584 sec, CPU: 0.453125 sec, Mem: 0.18 MB
+  DPLL: Unsatisfiable, 2 pași, 0.003273 sec, CPU: 0.000000 sec, Mem: 0.43 MB
+
+Set 44:
+  Resolution: Prea dificilă, 22218 clauze generate, 63.072060 sec, CPU: 60.515625 sec, Mem: 0.00 MB
+  DP: Satisfiable, 151 pași, 0.676896 sec, CPU: 0.562500 sec, Mem: 0.00 MB
+  DPLL: Satisfiable, 71 pași, 0.042567 sec, CPU: 0.046875 sec, Mem: 0.04 MB
+
+Set 45:
+  Resolution: Unsatisfiable, 200 clauze generate, 0.492812 sec, CPU: 0.453125 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 3 pași, 0.121529 sec, CPU: 0.093750 sec, Mem: 0.86 MB
+  DPLL: Unsatisfiable, 2 pași, 0.003374 sec, CPU: 0.000000 sec, Mem: 0.51 MB
+
+Set 46:
+  Resolution: Unsatisfiable, 200 clauze generate, 1.740824 sec, CPU: 1.640625 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 3 pași, 0.112772 sec, CPU: 0.109375 sec, Mem: 0.23 MB
+  DPLL: Unsatisfiable, 2 pași, 0.008572 sec, CPU: 0.000000 sec, Mem: 0.49 MB
+
+Set 47:
+  Resolution: Prea dificilă, 25771 clauze generate, 82.136272 sec, CPU: 74.609375 sec, Mem: 0.27 MB
+  DP: Satisfiable, 158 pași, 1.527997 sec, CPU: 1.406250 sec, Mem: 0.00 MB
+  DPLL: Satisfiable, 72 pași, 0.108453 sec, CPU: 0.109375 sec, Mem: 0.69 MB
+
+Set 48:
+  Resolution: Prea dificilă, 22156 clauze generate, 68.085599 sec, CPU: 61.453125 sec, Mem: 0.00 MB
+  DP: Satisfiable, 174 pași, 0.712966 sec, CPU: 0.546875 sec, Mem: 0.93 MB
+  DPLL: Satisfiable, 75 pași, 0.049086 sec, CPU: 0.046875 sec, Mem: 0.00 MB
+
+Set 49:
+  Resolution: Unsatisfiable, 200 clauze generate, 0.401082 sec, CPU: 0.343750 sec, Mem: 0.01 MB
+  DP: Unsatisfiable, 182 pași, 0.463111 sec, CPU: 0.359375 sec, Mem: 0.11 MB
+  DPLL: Unsatisfiable, 2 pași, 0.010906 sec, CPU: 0.000000 sec, Mem: 0.56 MB
+
+Set 50:
+  Resolution: Prea dificilă, 21760 clauze generate, 72.274405 sec, CPU: 66.296875 sec, Mem: 0.00 MB
+  DP: Satisfiable, 157 pași, 1.480799 sec, CPU: 1.281250 sec, Mem: 0.68 MB
+  DPLL: Satisfiable, 75 pași, 0.112606 sec, CPU: 0.109375 sec, Mem: 0.00 MB
+
+Set 51:
+  Resolution: Prea dificilă, 23757 clauze generate, 87.588775 sec, CPU: 79.546875 sec, Mem: 0.00 MB
+  DP: Satisfiable, 186 pași, 1.621441 sec, CPU: 1.484375 sec, Mem: 0.45 MB
+  DPLL: Satisfiable, 76 pași, 0.135229 sec, CPU: 0.125000 sec, Mem: 0.00 MB
+
+Set 52:
+  Resolution: Prea dificilă, 21714 clauze generate, 72.774780 sec, CPU: 64.859375 sec, Mem: 0.00 MB
+  DP: Satisfiable, 153 pași, 1.553227 sec, CPU: 1.390625 sec, Mem: 0.00 MB
+  DPLL: Satisfiable, 65 pași, 0.105395 sec, CPU: 0.093750 sec, Mem: 0.46 MB
+
+Set 53:
+  Resolution: Prea dificilă, 21777 clauze generate, 73.488356 sec, CPU: 65.531250 sec, Mem: 1.56 MB
+  DP: Satisfiable, 159 pași, 1.568508 sec, CPU: 1.546875 sec, Mem: 0.62 MB
+  DPLL: Satisfiable, 67 pași, 0.112920 sec, CPU: 0.093750 sec, Mem: 0.14 MB
+
+Set 54:
+  Resolution: Prea dificilă, 23306 clauze generate, 79.901202 sec, CPU: 71.625000 sec, Mem: 0.00 MB
+  DP: Satisfiable, 181 pași, 1.726311 sec, CPU: 1.500000 sec, Mem: 0.36 MB
+  DPLL: Satisfiable, 65 pași, 0.117305 sec, CPU: 0.109375 sec, Mem: 0.19 MB
+
+Set 55:
+  Resolution: Unsatisfiable, 200 clauze generate, 2.705529 sec, CPU: 2.359375 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 161 pași, 0.635272 sec, CPU: 0.531250 sec, Mem: 0.91 MB
+  DPLL: Unsatisfiable, 2 pași, 0.005983 sec, CPU: 0.000000 sec, Mem: 0.30 MB
+
+Set 56:
+  Resolution: Prea dificilă, 23981 clauze generate, 87.223794 sec, CPU: 79.703125 sec, Mem: 0.84 MB
+  DP: Satisfiable, 163 pași, 2.295140 sec, CPU: 2.140625 sec, Mem: 0.33 MB
+  DPLL: Satisfiable, 73 pași, 0.115021 sec, CPU: 0.125000 sec, Mem: 0.27 MB
+
+Set 57:
+  Resolution: Unsatisfiable, 200 clauze generate, 1.197337 sec, CPU: 1.031250 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 142 pași, 0.398649 sec, CPU: 0.390625 sec, Mem: 0.82 MB
+  DPLL: Unsatisfiable, 2 pași, 0.005311 sec, CPU: 0.000000 sec, Mem: 0.50 MB
+
+Set 58:
+  Resolution: Prea dificilă, 23430 clauze generate, 94.345048 sec, CPU: 85.359375 sec, Mem: 0.00 MB
+  DP: Satisfiable, 161 pași, 1.430232 sec, CPU: 1.187500 sec, Mem: 0.02 MB
+  DPLL: Satisfiable, 72 pași, 0.118419 sec, CPU: 0.093750 sec, Mem: 0.00 MB
+
+Set 59:
+  Resolution: Prea dificilă, 23712 clauze generate, 95.801584 sec, CPU: 88.500000 sec, Mem: 0.00 MB
+  DP: Satisfiable, 180 pași, 2.269763 sec, CPU: 2.015625 sec, Mem: 0.92 MB
+  DPLL: Satisfiable, 69 pași, 0.112637 sec, CPU: 0.062500 sec, Mem: 0.09 MB
+
+Set 60:
+  Resolution: Prea dificilă, 22989 clauze generate, 90.862242 sec, CPU: 82.281250 sec, Mem: 0.00 MB
+  DP: Satisfiable, 157 pași, 2.162657 sec, CPU: 1.765625 sec, Mem: 0.37 MB
+  DPLL: Satisfiable, 77 pași, 0.137666 sec, CPU: 0.109375 sec, Mem: 0.66 MB
+
+Set 61:
+  Resolution: Unsatisfiable, 200 clauze generate, 9.780550 sec, CPU: 7.703125 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 178 pași, 0.681579 sec, CPU: 0.593750 sec, Mem: 0.85 MB
+  DPLL: Unsatisfiable, 2 pași, 0.023990 sec, CPU: 0.000000 sec, Mem: 0.00 MB
+
+Set 62:
+  Resolution: Unsatisfiable, 200 clauze generate, 6.612266 sec, CPU: 5.718750 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 156 pași, 0.446738 sec, CPU: 0.406250 sec, Mem: 0.66 MB
+  DPLL: Unsatisfiable, 2 pași, 0.004805 sec, CPU: 0.000000 sec, Mem: 0.62 MB
+
+Set 63:
+  Resolution: Unsatisfiable, 200 clauze generate, 3.940248 sec, CPU: 3.359375 sec, Mem: 0.96 MB
+  DP: Unsatisfiable, 128 pași, 0.492193 sec, CPU: 0.453125 sec, Mem: 0.35 MB
+  DPLL: Unsatisfiable, 2 pași, 0.008357 sec, CPU: 0.000000 sec, Mem: 0.36 MB
+
+Set 64:
+  Resolution: Prea dificilă, 23218 clauze generate, 99.238927 sec, CPU: 92.578125 sec, Mem: 0.00 MB
+  DP: Satisfiable, 172 pași, 1.670665 sec, CPU: 1.531250 sec, Mem: 0.41 MB
+  DPLL: Satisfiable, 67 pași, 0.115382 sec, CPU: 0.109375 sec, Mem: 0.03 MB
+
+Set 65:
+  Resolution: Prea dificilă, 27324 clauze generate, 116.621322 sec, CPU: 107.218750 sec, Mem: 0.00 MB
+  DP: Satisfiable, 147 pași, 1.626930 sec, CPU: 1.328125 sec, Mem: 0.45 MB
+  DPLL: Satisfiable, 74 pași, 0.139589 sec, CPU: 0.109375 sec, Mem: 0.00 MB
+
+Set 66:
+  Resolution: Prea dificilă, 21719 clauze generate, 97.615182 sec, CPU: 90.234375 sec, Mem: 0.00 MB
+  DP: Satisfiable, 163 pași, 1.965767 sec, CPU: 1.890625 sec, Mem: 0.56 MB
+  DPLL: Satisfiable, 69 pași, 0.109515 sec, CPU: 0.078125 sec, Mem: 0.16 MB
+
+Set 67:
+  Resolution: Prea dificilă, 22880 clauze generate, 103.903364 sec, CPU: 96.359375 sec, Mem: 0.00 MB
+  DP: Satisfiable, 169 pași, 1.775723 sec, CPU: 1.609375 sec, Mem: 0.73 MB
+  DPLL: Satisfiable, 77 pași, 0.127004 sec, CPU: 0.078125 sec, Mem: 0.00 MB
+
+Set 68:
+  Resolution: Prea dificilă, 24226 clauze generate, 108.021265 sec, CPU: 101.281250 sec, Mem: 0.00 MB
+  DP: Satisfiable, 177 pași, 1.681538 sec, CPU: 1.375000 sec, Mem: 0.59 MB
+  DPLL: Satisfiable, 72 pași, 0.138024 sec, CPU: 0.125000 sec, Mem: 0.56 MB
+
+Set 69:
+  Resolution: Unsatisfiable, 200 clauze generate, 35.828010 sec, CPU: 32.359375 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 168 pași, 1.448156 sec, CPU: 1.187500 sec, Mem: 1.09 MB
+  DPLL: Unsatisfiable, 2 pași, 0.013700 sec, CPU: 0.000000 sec, Mem: 0.20 MB
+
+Set 70:
+  Resolution: Prea dificilă, 24083 clauze generate, 104.425338 sec, CPU: 96.593750 sec, Mem: 0.00 MB
+  DP: Satisfiable, 163 pași, 1.527768 sec, CPU: 1.390625 sec, Mem: 0.57 MB
+  DPLL: Satisfiable, 74 pași, 0.115618 sec, CPU: 0.109375 sec, Mem: 0.00 MB
+
+Set 71:
+  Resolution: Prea dificilă, 26010 clauze generate, 110.306815 sec, CPU: 102.812500 sec, Mem: 0.08 MB
+  DP: Satisfiable, 159 pași, 1.515159 sec, CPU: 1.437500 sec, Mem: 0.52 MB
+  DPLL: Satisfiable, 62 pași, 0.106995 sec, CPU: 0.078125 sec, Mem: 0.41 MB
+
+Set 72:
+  Resolution: Unsatisfiable, 200 clauze generate, 7.054039 sec, CPU: 6.406250 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 158 pași, 1.775761 sec, CPU: 1.640625 sec, Mem: 0.45 MB
+  DPLL: Unsatisfiable, 2 pași, 0.014887 sec, CPU: 0.000000 sec, Mem: 0.00 MB
+
+Set 73:
+  Resolution: Prea dificilă, 25017 clauze generate, 105.335328 sec, CPU: 98.093750 sec, Mem: 0.00 MB
+  DP: Satisfiable, 173 pași, 1.925883 sec, CPU: 1.578125 sec, Mem: 0.68 MB
+  DPLL: Satisfiable, 68 pași, 0.132078 sec, CPU: 0.125000 sec, Mem: 0.05 MB
+
+Set 74:
+  Resolution: Unsatisfiable, 200 clauze generate, 1.211801 sec, CPU: 1.046875 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 161 pași, 2.216344 sec, CPU: 1.875000 sec, Mem: 0.44 MB
+  DPLL: Unsatisfiable, 2 pași, 0.007716 sec, CPU: 0.000000 sec, Mem: 0.25 MB
+
+Set 75:
+  Resolution: Prea dificilă, 22327 clauze generate, 95.110991 sec, CPU: 89.250000 sec, Mem: 0.00 MB
+  DP: Satisfiable, 176 pași, 1.686715 sec, CPU: 1.375000 sec, Mem: 0.69 MB
+  DPLL: Satisfiable, 78 pași, 0.121234 sec, CPU: 0.078125 sec, Mem: 0.56 MB
+
+Set 76:
+  Resolution: Unsatisfiable, 200 clauze generate, 3.632278 sec, CPU: 3.281250 sec, Mem: 1.39 MB
+  DP: Unsatisfiable, 174 pași, 1.765815 sec, CPU: 1.687500 sec, Mem: 0.55 MB
+  DPLL: Unsatisfiable, 2 pași, 0.007507 sec, CPU: 0.000000 sec, Mem: 0.31 MB
+
+Set 77:
+  Resolution: Prea dificilă, 20586 clauze generate, 91.503502 sec, CPU: 85.812500 sec, Mem: 0.00 MB
+  DP: Satisfiable, 131 pași, 2.133776 sec, CPU: 1.890625 sec, Mem: 0.45 MB
+  DPLL: Satisfiable, 73 pași, 0.129463 sec, CPU: 0.109375 sec, Mem: 0.70 MB
+
+Set 78:
+  Resolution: Unsatisfiable, 200 clauze generate, 2.084818 sec, CPU: 2.015625 sec, Mem: 0.60 MB
+  DP: Unsatisfiable, 189 pași, 1.871329 sec, CPU: 1.656250 sec, Mem: 0.40 MB
+  DPLL: Unsatisfiable, 2 pași, 0.017975 sec, CPU: 0.015625 sec, Mem: 0.43 MB
+
+Set 79:
+  Resolution: Unsatisfiable, 200 clauze generate, 0.263644 sec, CPU: 0.218750 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 167 pași, 2.084512 sec, CPU: 1.890625 sec, Mem: 0.02 MB
+  DPLL: Unsatisfiable, 2 pași, 0.009014 sec, CPU: 0.000000 sec, Mem: 0.49 MB
+
+Set 80:
+  Resolution: Prea dificilă, 24429 clauze generate, 109.915345 sec, CPU: 101.750000 sec, Mem: 0.00 MB
+  DP: Satisfiable, 163 pași, 2.068914 sec, CPU: 1.750000 sec, Mem: 0.00 MB
+  DPLL: Satisfiable, 69 pași, 0.113640 sec, CPU: 0.078125 sec, Mem: 0.02 MB
+
+Set 81:
+  Resolution: Prea dificilă, 21750 clauze generate, 95.404082 sec, CPU: 88.875000 sec, Mem: 0.02 MB
+  DP: Satisfiable, 159 pași, 1.704427 sec, CPU: 1.500000 sec, Mem: 0.18 MB
+  DPLL: Satisfiable, 68 pași, 0.131605 sec, CPU: 0.109375 sec, Mem: 0.00 MB
+
+Set 82:
+  Resolution: Unsatisfiable, 200 clauze generate, 46.746161 sec, CPU: 43.781250 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 148 pași, 1.882474 sec, CPU: 1.734375 sec, Mem: 0.82 MB
+  DPLL: Unsatisfiable, 2 pași, 0.009476 sec, CPU: 0.000000 sec, Mem: 0.45 MB
+
+Set 83:
+  Resolution: Unsatisfiable, 200 clauze generate, 16.808716 sec, CPU: 15.765625 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 150 pași, 1.209623 sec, CPU: 1.140625 sec, Mem: 0.68 MB
+  DPLL: Unsatisfiable, 2 pași, 0.014807 sec, CPU: 0.000000 sec, Mem: 0.56 MB
+
+Set 84:
+  Resolution: Prea dificilă, 22258 clauze generate, 98.959708 sec, CPU: 91.296875 sec, Mem: 0.19 MB
+  DP: Satisfiable, 175 pași, 1.861311 sec, CPU: 1.500000 sec, Mem: 0.54 MB
+  DPLL: Satisfiable, 70 pași, 0.137563 sec, CPU: 0.078125 sec, Mem: 0.00 MB
+
+Set 85:
+  Resolution: Prea dificilă, 23605 clauze generate, 107.670240 sec, CPU: 99.109375 sec, Mem: 0.00 MB
+  DP: Satisfiable, 146 pași, 1.653380 sec, CPU: 1.421875 sec, Mem: 0.39 MB
+  DPLL: Satisfiable, 63 pași, 0.114610 sec, CPU: 0.109375 sec, Mem: 0.16 MB
+
+Set 86:
+  Resolution: Prea dificilă, 22407 clauze generate, 95.112613 sec, CPU: 88.281250 sec, Mem: 1.12 MB
+  DP: Satisfiable, 171 pași, 2.648433 sec, CPU: 2.375000 sec, Mem: 0.47 MB
+  DPLL: Satisfiable, 69 pași, 0.107368 sec, CPU: 0.078125 sec, Mem: 0.00 MB
+
+Set 87:
+  Resolution: Unsatisfiable, 200 clauze generate, 8.868571 sec, CPU: 8.093750 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 143 pași, 2.203733 sec, CPU: 1.921875 sec, Mem: 0.75 MB
+  DPLL: Unsatisfiable, 2 pași, 0.009354 sec, CPU: 0.000000 sec, Mem: 0.36 MB
+
+Set 88:
+  Resolution: Prea dificilă, 23589 clauze generate, 103.373322 sec, CPU: 96.031250 sec, Mem: 0.00 MB
+  DP: Satisfiable, 171 pași, 1.531311 sec, CPU: 1.281250 sec, Mem: 0.41 MB
+  DPLL: Satisfiable, 74 pași, 0.156402 sec, CPU: 0.140625 sec, Mem: 0.61 MB
+
+Set 89:
+  Resolution: Prea dificilă, 21071 clauze generate, 94.277169 sec, CPU: 86.421875 sec, Mem: 0.00 MB
+  DP: Satisfiable, 157 pași, 2.156945 sec, CPU: 1.828125 sec, Mem: 0.72 MB
+  DPLL: Satisfiable, 86 pași, 0.146157 sec, CPU: 0.093750 sec, Mem: 0.08 MB
+
+Set 90:
+  Resolution: Prea dificilă, 23695 clauze generate, 107.837921 sec, CPU: 98.718750 sec, Mem: 0.00 MB
+  DP: Satisfiable, 142 pași, 2.223224 sec, CPU: 1.937500 sec, Mem: 0.33 MB
+  DPLL: Satisfiable, 68 pași, 0.112128 sec, CPU: 0.093750 sec, Mem: 0.42 MB
+
+Set 91:
+  Resolution: Prea dificilă, 25040 clauze generate, 110.610374 sec, CPU: 101.890625 sec, Mem: 0.00 MB
+  DP: Satisfiable, 159 pași, 1.433362 sec, CPU: 1.328125 sec, Mem: 0.55 MB
+  DPLL: Satisfiable, 66 pași, 0.131214 sec, CPU: 0.109375 sec, Mem: 0.32 MB
+
+Set 92:
+  Resolution: Unsatisfiable, 200 clauze generate, 3.312612 sec, CPU: 2.828125 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 142 pași, 2.297860 sec, CPU: 1.953125 sec, Mem: 0.19 MB
+  DPLL: Unsatisfiable, 2 pași, 0.009831 sec, CPU: 0.015625 sec, Mem: 0.56 MB
+
+Set 93:
+  Resolution: Prea dificilă, 25129 clauze generate, 109.459761 sec, CPU: 102.328125 sec, Mem: 0.19 MB
+  DP: Satisfiable, 171 pași, 1.962650 sec, CPU: 1.718750 sec, Mem: 0.25 MB
+  DPLL: Satisfiable, 74 pași, 0.166046 sec, CPU: 0.125000 sec, Mem: 0.70 MB
+
+Set 94:
+  Resolution: Prea dificilă, 22586 clauze generate, 94.225875 sec, CPU: 88.015625 sec, Mem: 0.04 MB
+  DP: Satisfiable, 151 pași, 1.687306 sec, CPU: 1.484375 sec, Mem: 0.00 MB
+  DPLL: Satisfiable, 70 pași, 0.122324 sec, CPU: 0.093750 sec, Mem: 0.62 MB
+
+Set 95:
+  Resolution: Prea dificilă, 21945 clauze generate, 97.079948 sec, CPU: 89.859375 sec, Mem: 0.00 MB
+  DP: Satisfiable, 184 pași, 1.525339 sec, CPU: 1.468750 sec, Mem: 0.77 MB
+  DPLL: Satisfiable, 71 pași, 0.120766 sec, CPU: 0.109375 sec, Mem: 0.04 MB
+
+Set 96:
+  Resolution: Prea dificilă, 23715 clauze generate, 111.436326 sec, CPU: 101.859375 sec, Mem: 0.00 MB
+  DP: Satisfiable, 177 pași, 1.690096 sec, CPU: 1.359375 sec, Mem: 0.38 MB
+  DPLL: Satisfiable, 84 pași, 0.138551 sec, CPU: 0.140625 sec, Mem: 0.21 MB
+
+Set 97:
+  Resolution: Prea dificilă, 25668 clauze generate, 113.230067 sec, CPU: 103.953125 sec, Mem: 0.00 MB
+  DP: Satisfiable, 153 pași, 1.788470 sec, CPU: 1.734375 sec, Mem: 0.55 MB
+  DPLL: Satisfiable, 66 pași, 0.105350 sec, CPU: 0.109375 sec, Mem: 0.49 MB
+
+Set 98:
+  Resolution: Unsatisfiable, 200 clauze generate, 15.917201 sec, CPU: 14.500000 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 5 pași, 0.661561 sec, CPU: 0.640625 sec, Mem: 0.98 MB
+  DPLL: Unsatisfiable, 2 pași, 0.011010 sec, CPU: 0.000000 sec, Mem: 0.18 MB
+
+Set 99:
+  Resolution: Prea dificilă, 24222 clauze generate, 107.161458 sec, CPU: 99.234375 sec, Mem: 0.00 MB
+  DP: Satisfiable, 169 pași, 1.680543 sec, CPU: 1.546875 sec, Mem: 0.41 MB
+  DPLL: Satisfiable, 74 pași, 0.128726 sec, CPU: 0.093750 sec, Mem: 0.27 MB
+
+Set 100:
+  Resolution: Prea dificilă, 24789 clauze generate, 108.973986 sec, CPU: 99.625000 sec, Mem: 0.00 MB
+  DP: Satisfiable, 181 pași, 1.602896 sec, CPU: 1.515625 sec, Mem: 0.76 MB
+  DPLL: Satisfiable, 66 pași, 0.103078 sec, CPU: 0.078125 sec, Mem: 0.97 MB
+
+Set 101:
+  Resolution: Prea dificilă, 27683 clauze generate, 122.700778 sec, CPU: 110.875000 sec, Mem: 0.00 MB
+  DP: Satisfiable, 134 pași, 2.533745 sec, CPU: 2.234375 sec, Mem: 1.65 MB
+  DPLL: Satisfiable, 69 pași, 0.099694 sec, CPU: 0.093750 sec, Mem: 0.00 MB
+
+Set 102:
+  Resolution: Prea dificilă, 23111 clauze generate, 100.659738 sec, CPU: 93.187500 sec, Mem: 0.00 MB
+  DP: Satisfiable, 163 pași, 1.728966 sec, CPU: 1.484375 sec, Mem: 0.61 MB
+  DPLL: Satisfiable, 68 pași, 0.124633 sec, CPU: 0.093750 sec, Mem: 0.62 MB
+
+Set 103:
+  Resolution: Prea dificilă, 22218 clauze generate, 100.244854 sec, CPU: 90.984375 sec, Mem: 0.00 MB
+  DP: Satisfiable, 191 pași, 2.648382 sec, CPU: 2.234375 sec, Mem: 0.61 MB
+  DPLL: Satisfiable, 75 pași, 0.140956 sec, CPU: 0.125000 sec, Mem: 0.44 MB
+
+Set 104:
+  Resolution: Prea dificilă, 23458 clauze generate, 105.675177 sec, CPU: 96.218750 sec, Mem: 0.00 MB
+  DP: Satisfiable, 150 pași, 2.129477 sec, CPU: 2.000000 sec, Mem: 0.00 MB
+  DPLL: Satisfiable, 67 pași, 0.136669 sec, CPU: 0.109375 sec, Mem: 0.90 MB
+
+Set 105:
+  Resolution: Prea dificilă, 25075 clauze generate, 113.508213 sec, CPU: 104.265625 sec, Mem: 0.00 MB
+  DP: Satisfiable, 156 pași, 1.941104 sec, CPU: 1.843750 sec, Mem: 0.25 MB
+  DPLL: Satisfiable, 73 pași, 0.123955 sec, CPU: 0.078125 sec, Mem: 0.23 MB
+
+Set 106:
+  Resolution: Prea dificilă, 24626 clauze generate, 110.548925 sec, CPU: 100.687500 sec, Mem: 0.00 MB
+  DP: Satisfiable, 184 pași, 1.987616 sec, CPU: 1.875000 sec, Mem: 0.33 MB
+  DPLL: Satisfiable, 78 pași, 0.114070 sec, CPU: 0.109375 sec, Mem: 0.10 MB
+
+Set 107:
+  Resolution: Prea dificilă, 21700 clauze generate, 100.944052 sec, CPU: 90.828125 sec, Mem: 0.00 MB
+  DP: Satisfiable, 150 pași, 1.319666 sec, CPU: 1.203125 sec, Mem: 0.24 MB
+  DPLL: Satisfiable, 71 pași, 0.095067 sec, CPU: 0.093750 sec, Mem: 0.27 MB
+
+Set 108:
+  Resolution: Prea dificilă, 21409 clauze generate, 96.430139 sec, CPU: 88.343750 sec, Mem: 0.00 MB
+  DP: Satisfiable, 174 pași, 2.620442 sec, CPU: 2.421875 sec, Mem: 0.06 MB
+  DPLL: Satisfiable, 71 pași, 0.094929 sec, CPU: 0.078125 sec, Mem: 0.56 MB
+
+Set 109:
+  Resolution: Prea dificilă, 23441 clauze generate, 100.505806 sec, CPU: 92.343750 sec, Mem: 0.00 MB
+  DP: Satisfiable, 188 pași, 1.835458 sec, CPU: 1.640625 sec, Mem: 0.30 MB
+  DPLL: Satisfiable, 68 pași, 0.097722 sec, CPU: 0.093750 sec, Mem: 0.42 MB
+
+Set 110:
+  Resolution: Prea dificilă, 19604 clauze generate, 81.917736 sec, CPU: 76.031250 sec, Mem: 0.00 MB
+  DP: Satisfiable, 150 pași, 2.112824 sec, CPU: 1.968750 sec, Mem: 0.62 MB
+  DPLL: Satisfiable, 79 pași, 0.124358 sec, CPU: 0.093750 sec, Mem: 0.14 MB
+
+Set 111:
+  Resolution: Prea dificilă, 22306 clauze generate, 92.019493 sec, CPU: 86.171875 sec, Mem: 0.00 MB
+  DP: Satisfiable, 142 pași, 1.857867 sec, CPU: 1.515625 sec, Mem: 0.63 MB
+  DPLL: Satisfiable, 70 pași, 0.135118 sec, CPU: 0.093750 sec, Mem: 0.11 MB
+
+Set 112:
+  Resolution: Unsatisfiable, 200 clauze generate, 58.208436 sec, CPU: 54.921875 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 178 pași, 1.212126 sec, CPU: 1.093750 sec, Mem: 1.12 MB
+  DPLL: Unsatisfiable, 2 pași, 0.010499 sec, CPU: 0.015625 sec, Mem: 0.24 MB
+
+Set 113:
+  Resolution: Unsatisfiable, 200 clauze generate, 61.825060 sec, CPU: 56.812500 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 169 pași, 1.637276 sec, CPU: 1.515625 sec, Mem: 0.74 MB
+  DPLL: Unsatisfiable, 2 pași, 0.009756 sec, CPU: 0.015625 sec, Mem: 0.31 MB
+
+Set 114:
+  Resolution: Prea dificilă, 22079 clauze generate, 96.690717 sec, CPU: 90.937500 sec, Mem: 0.00 MB
+  DP: Satisfiable, 177 pași, 1.869102 sec, CPU: 1.718750 sec, Mem: 0.54 MB
+  DPLL: Satisfiable, 82 pași, 0.147653 sec, CPU: 0.109375 sec, Mem: 0.26 MB
+
+Set 115:
+  Resolution: Prea dificilă, 27478 clauze generate, 119.899701 sec, CPU: 111.171875 sec, Mem: 1.08 MB
+  DP: Satisfiable, 165 pași, 1.426510 sec, CPU: 1.343750 sec, Mem: 0.93 MB
+  DPLL: Satisfiable, 66 pași, 0.118636 sec, CPU: 0.125000 sec, Mem: 0.00 MB
+
+Set 116:
+  Resolution: Prea dificilă, 22312 clauze generate, 96.975453 sec, CPU: 88.281250 sec, Mem: 0.00 MB
+  DP: Satisfiable, 180 pași, 2.891540 sec, CPU: 2.375000 sec, Mem: 0.24 MB
+  DPLL: Satisfiable, 78 pași, 0.149010 sec, CPU: 0.109375 sec, Mem: 0.62 MB
+
+Set 117:
+  Resolution: Prea dificilă, 22778 clauze generate, 102.426333 sec, CPU: 93.921875 sec, Mem: 0.00 MB
+  DP: Satisfiable, 180 pași, 2.312053 sec, CPU: 2.109375 sec, Mem: 0.73 MB
+  DPLL: Satisfiable, 73 pași, 0.097370 sec, CPU: 0.078125 sec, Mem: 0.00 MB
+
+Set 118:
+  Resolution: Prea dificilă, 27667 clauze generate, 123.914656 sec, CPU: 113.203125 sec, Mem: 0.00 MB
+  DP: Satisfiable, 136 pași, 1.687439 sec, CPU: 1.562500 sec, Mem: 1.08 MB
+  DPLL: Satisfiable, 63 pași, 0.122075 sec, CPU: 0.109375 sec, Mem: 0.11 MB
+
+Set 119:
+  Resolution: Unsatisfiable, 200 clauze generate, 75.222292 sec, CPU: 71.203125 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 169 pași, 2.325289 sec, CPU: 1.890625 sec, Mem: 0.52 MB
+  DPLL: Unsatisfiable, 2 pași, 0.015764 sec, CPU: 0.015625 sec, Mem: 0.45 MB
+
+Set 120:
+  Resolution: Prea dificilă, 25343 clauze generate, 109.568899 sec, CPU: 101.890625 sec, Mem: 0.00 MB
+  DP: Satisfiable, 125 pași, 2.074625 sec, CPU: 1.687500 sec, Mem: 0.52 MB
+  DPLL: Satisfiable, 77 pași, 0.140608 sec, CPU: 0.125000 sec, Mem: 0.32 MB
+
+Set 121:
+  Resolution: Prea dificilă, 21781 clauze generate, 95.023485 sec, CPU: 87.468750 sec, Mem: 0.00 MB
+  DP: Satisfiable, 170 pași, 2.322823 sec, CPU: 1.953125 sec, Mem: 0.70 MB
+  DPLL: Satisfiable, 79 pași, 0.139694 sec, CPU: 0.125000 sec, Mem: 0.50 MB
+
+Set 122:
+  Resolution: Prea dificilă, 25321 clauze generate, 105.650893 sec, CPU: 97.890625 sec, Mem: 0.00 MB
+  DP: Satisfiable, 166 pași, 1.728401 sec, CPU: 1.437500 sec, Mem: 0.42 MB
+  DPLL: Satisfiable, 72 pași, 0.146636 sec, CPU: 0.140625 sec, Mem: 0.12 MB
+
+Set 123:
+  Resolution: Prea dificilă, 24034 clauze generate, 107.419918 sec, CPU: 98.265625 sec, Mem: 1.09 MB
+  DP: Satisfiable, 168 pași, 1.915946 sec, CPU: 1.812500 sec, Mem: 0.20 MB
+  DPLL: Satisfiable, 68 pași, 0.131249 sec, CPU: 0.125000 sec, Mem: 0.43 MB
+
+Set 124:
+  Resolution: Prea dificilă, 24477 clauze generate, 111.070020 sec, CPU: 101.234375 sec, Mem: 0.00 MB
+  DP: Satisfiable, 177 pași, 1.895599 sec, CPU: 1.843750 sec, Mem: 0.48 MB
+  DPLL: Satisfiable, 71 pași, 0.114234 sec, CPU: 0.109375 sec, Mem: 0.18 MB
+
+Set 125:
+  Resolution: Prea dificilă, 22938 clauze generate, 101.831511 sec, CPU: 94.171875 sec, Mem: 0.00 MB
+  DP: Satisfiable, 167 pași, 1.715712 sec, CPU: 1.593750 sec, Mem: 0.35 MB
+  DPLL: Satisfiable, 67 pași, 0.113545 sec, CPU: 0.093750 sec, Mem: 0.63 MB
+
+Set 126:
+  Resolution: Prea dificilă, 23523 clauze generate, 102.016194 sec, CPU: 93.515625 sec, Mem: 0.00 MB
+  DP: Satisfiable, 167 pași, 1.927921 sec, CPU: 1.828125 sec, Mem: 0.46 MB
+  DPLL: Satisfiable, 74 pași, 0.119620 sec, CPU: 0.078125 sec, Mem: 0.30 MB
+
+Set 127:
+  Resolution: Prea dificilă, 25495 clauze generate, 110.797353 sec, CPU: 102.703125 sec, Mem: 0.00 MB
+  DP: Satisfiable, 171 pași, 1.665940 sec, CPU: 1.421875 sec, Mem: 0.10 MB
+  DPLL: Satisfiable, 71 pași, 0.138555 sec, CPU: 0.125000 sec, Mem: 0.00 MB
+
+Set 128:
+  Resolution: Unsatisfiable, 200 clauze generate, 3.830898 sec, CPU: 3.656250 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 146 pași, 1.814588 sec, CPU: 1.640625 sec, Mem: 1.32 MB
+  DPLL: Unsatisfiable, 2 pași, 0.007025 sec, CPU: 0.000000 sec, Mem: 0.15 MB
+
+Set 129:
+  Resolution: Prea dificilă, 20051 clauze generate, 84.120571 sec, CPU: 78.265625 sec, Mem: 0.00 MB
+  DP: Satisfiable, 161 pași, 2.057176 sec, CPU: 1.875000 sec, Mem: 0.39 MB
+  DPLL: Satisfiable, 76 pași, 0.093758 sec, CPU: 0.078125 sec, Mem: 0.91 MB
+
+Set 130:
+  Resolution: Unsatisfiable, 200 clauze generate, 3.580873 sec, CPU: 3.390625 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 172 pași, 1.910011 sec, CPU: 1.593750 sec, Mem: 0.22 MB
+  DPLL: Unsatisfiable, 2 pași, 0.010087 sec, CPU: 0.015625 sec, Mem: 0.53 MB
+
+Set 131:
+  Resolution: Unsatisfiable, 200 clauze generate, 9.403012 sec, CPU: 7.828125 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 179 pași, 1.958153 sec, CPU: 1.781250 sec, Mem: 1.55 MB
+  DPLL: Unsatisfiable, 2 pași, 0.014086 sec, CPU: 0.015625 sec, Mem: 0.00 MB
+
+Set 132:
+  Resolution: Unsatisfiable, 200 clauze generate, 27.569391 sec, CPU: 24.890625 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 152 pași, 2.719085 sec, CPU: 2.562500 sec, Mem: 0.00 MB
+  DPLL: Unsatisfiable, 2 pași, 0.009399 sec, CPU: 0.015625 sec, Mem: 0.43 MB
+
+Set 133:
+  Resolution: Prea dificilă, 24985 clauze generate, 108.585119 sec, CPU: 102.125000 sec, Mem: 0.00 MB
+  DP: Satisfiable, 183 pași, 1.566323 sec, CPU: 1.421875 sec, Mem: 0.30 MB
+  DPLL: Satisfiable, 71 pași, 0.103826 sec, CPU: 0.109375 sec, Mem: 0.64 MB
+
+Set 134:
+  Resolution: Prea dificilă, 23326 clauze generate, 105.709462 sec, CPU: 99.156250 sec, Mem: 0.00 MB
+  DP: Satisfiable, 122 pași, 2.263489 sec, CPU: 2.156250 sec, Mem: 0.06 MB
+  DPLL: Satisfiable, 77 pași, 0.149853 sec, CPU: 0.109375 sec, Mem: 5.29 MB
+
+Set 135:
+  Resolution: Prea dificilă, 22849 clauze generate, 98.350680 sec, CPU: 92.468750 sec, Mem: 0.00 MB
+  DP: Satisfiable, 143 pași, 2.054908 sec, CPU: 1.640625 sec, Mem: 0.59 MB
+  DPLL: Satisfiable, 74 pași, 0.113884 sec, CPU: 0.125000 sec, Mem: 0.32 MB
+
+Set 136:
+  Resolution: Unsatisfiable, 200 clauze generate, 5.178807 sec, CPU: 4.875000 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 153 pași, 1.114044 sec, CPU: 1.062500 sec, Mem: 0.54 MB
+  DPLL: Unsatisfiable, 2 pași, 0.014300 sec, CPU: 0.015625 sec, Mem: 0.28 MB
+
+Set 137:
+  Resolution: Prea dificilă, 24769 clauze generate, 110.069193 sec, CPU: 102.375000 sec, Mem: 0.45 MB
+  DP: Satisfiable, 180 pași, 2.502591 sec, CPU: 2.156250 sec, Mem: 0.26 MB
+  DPLL: Satisfiable, 68 pași, 0.149758 sec, CPU: 0.125000 sec, Mem: 0.65 MB
+
+Set 138:
+  Resolution: Unsatisfiable, 200 clauze generate, 6.142703 sec, CPU: 5.796875 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 185 pași, 1.674072 sec, CPU: 1.546875 sec, Mem: 0.95 MB
+  DPLL: Unsatisfiable, 2 pași, 0.009230 sec, CPU: 0.000000 sec, Mem: 0.07 MB
+
+Set 139:
+  Resolution: Prea dificilă, 21902 clauze generate, 94.854438 sec, CPU: 90.140625 sec, Mem: 0.60 MB
+  DP: Satisfiable, 160 pași, 1.109495 sec, CPU: 0.968750 sec, Mem: 0.61 MB
+  DPLL: Satisfiable, 76 pași, 0.120293 sec, CPU: 0.109375 sec, Mem: 4.49 MB
+
+Set 140:
+  Resolution: Prea dificilă, 23847 clauze generate, 102.869890 sec, CPU: 96.828125 sec, Mem: 0.00 MB
+  DP: Satisfiable, 181 pași, 1.983055 sec, CPU: 1.687500 sec, Mem: 0.00 MB
+  DPLL: Satisfiable, 72 pași, 0.138216 sec, CPU: 0.125000 sec, Mem: 0.79 MB
+
+Set 141:
+  Resolution: Unsatisfiable, 200 clauze generate, 3.266495 sec, CPU: 3.015625 sec, Mem: 0.07 MB
+  DP: Unsatisfiable, 177 pași, 1.602167 sec, CPU: 1.328125 sec, Mem: 0.00 MB
+  DPLL: Unsatisfiable, 2 pași, 0.008627 sec, CPU: 0.015625 sec, Mem: 0.44 MB
+
+Set 142:
+  Resolution: Prea dificilă, 24028 clauze generate, 108.576620 sec, CPU: 101.484375 sec, Mem: 0.00 MB
+  DP: Satisfiable, 171 pași, 2.251121 sec, CPU: 1.750000 sec, Mem: 1.25 MB
+  DPLL: Satisfiable, 64 pași, 0.138741 sec, CPU: 0.093750 sec, Mem: 3.47 MB
+
+Set 143:
+  Resolution: Prea dificilă, 26111 clauze generate, 111.281644 sec, CPU: 103.234375 sec, Mem: 0.00 MB
+  DP: Satisfiable, 173 pași, 1.592276 sec, CPU: 1.453125 sec, Mem: 0.86 MB
+  DPLL: Satisfiable, 67 pași, 0.138391 sec, CPU: 0.093750 sec, Mem: 4.64 MB
+
+Set 144:
+  Resolution: Unsatisfiable, 200 clauze generate, 4.865239 sec, CPU: 4.734375 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 155 pași, 1.647588 sec, CPU: 1.453125 sec, Mem: 0.62 MB
+  DPLL: Unsatisfiable, 2 pași, 0.008140 sec, CPU: 0.015625 sec, Mem: 0.52 MB
+
+Set 145:
+  Resolution: Prea dificilă, 22565 clauze generate, 101.276610 sec, CPU: 94.468750 sec, Mem: 0.00 MB
+  DP: Satisfiable, 157 pași, 1.418247 sec, CPU: 1.390625 sec, Mem: 0.32 MB
+  DPLL: Satisfiable, 78 pași, 0.118340 sec, CPU: 0.109375 sec, Mem: 0.67 MB
+
+Set 146:
+  Resolution: Prea dificilă, 21442 clauze generate, 96.833626 sec, CPU: 88.421875 sec, Mem: 0.05 MB
+  DP: Satisfiable, 134 pași, 2.122245 sec, CPU: 2.109375 sec, Mem: 0.09 MB
+  DPLL: Satisfiable, 70 pași, 0.130533 sec, CPU: 0.125000 sec, Mem: 0.89 MB
+
+Set 147:
+  Resolution: Prea dificilă, 22022 clauze generate, 99.816517 sec, CPU: 91.453125 sec, Mem: 0.00 MB
+  DP: Satisfiable, 185 pași, 1.445619 sec, CPU: 1.265625 sec, Mem: 0.09 MB
+  DPLL: Satisfiable, 80 pași, 0.134607 sec, CPU: 0.109375 sec, Mem: 0.68 MB
+
+Set 148:
+  Resolution: Prea dificilă, 23372 clauze generate, 104.031025 sec, CPU: 95.515625 sec, Mem: 0.00 MB
+  DP: Satisfiable, 168 pași, 1.677871 sec, CPU: 1.515625 sec, Mem: 0.43 MB
+  DPLL: Satisfiable, 72 pași, 0.128712 sec, CPU: 0.125000 sec, Mem: 5.54 MB
+
+Set 149:
+  Resolution: Unsatisfiable, 200 clauze generate, 57.996292 sec, CPU: 53.593750 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 2 pași, 0.240360 sec, CPU: 0.218750 sec, Mem: 0.47 MB
+  DPLL: Unsatisfiable, 2 pași, 0.013740 sec, CPU: 0.000000 sec, Mem: 0.50 MB
+
+Set 150:
+  Resolution: Unsatisfiable, 200 clauze generate, 45.515414 sec, CPU: 41.328125 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 11 pași, 1.266235 sec, CPU: 1.187500 sec, Mem: 0.89 MB
+  DPLL: Unsatisfiable, 2 pași, 0.013746 sec, CPU: 0.000000 sec, Mem: 0.20 MB
+
+Set 151:
+  Resolution: Unsatisfiable, 200 clauze generate, 0.184837 sec, CPU: 0.171875 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 13 pași, 1.503101 sec, CPU: 1.312500 sec, Mem: 1.11 MB
+  DPLL: Unsatisfiable, 2 pași, 0.008166 sec, CPU: 0.000000 sec, Mem: 0.04 MB
+
+Set 152:
+  Resolution: Prea dificilă, 25919 clauze generate, 108.948057 sec, CPU: 101.234375 sec, Mem: 0.00 MB
+  DP: Satisfiable, 149 pași, 2.014100 sec, CPU: 1.828125 sec, Mem: 1.21 MB
+  DPLL: Satisfiable, 66 pași, 0.156277 sec, CPU: 0.125000 sec, Mem: 0.00 MB
+
+Set 153:
+  Resolution: Prea dificilă, 24526 clauze generate, 105.596671 sec, CPU: 96.750000 sec, Mem: 0.34 MB
+  DP: Satisfiable, 177 pași, 1.801524 sec, CPU: 1.578125 sec, Mem: 0.41 MB
+  DPLL: Satisfiable, 76 pași, 0.124588 sec, CPU: 0.109375 sec, Mem: 0.00 MB
+
+Set 154:
+  Resolution: Prea dificilă, 24476 clauze generate, 108.705815 sec, CPU: 100.031250 sec, Mem: 0.00 MB
+  DP: Satisfiable, 155 pași, 1.992632 sec, CPU: 1.765625 sec, Mem: 0.80 MB
+  DPLL: Satisfiable, 67 pași, 0.124805 sec, CPU: 0.093750 sec, Mem: 0.00 MB
+
+Set 155:
+  Resolution: Prea dificilă, 27741 clauze generate, 121.648050 sec, CPU: 112.546875 sec, Mem: 0.00 MB
+  DP: Satisfiable, 184 pași, 1.351334 sec, CPU: 1.265625 sec, Mem: 0.97 MB
+  DPLL: Satisfiable, 71 pași, 0.115874 sec, CPU: 0.093750 sec, Mem: 0.01 MB
+
+Set 156:
+  Resolution: Unsatisfiable, 200 clauze generate, 1.642651 sec, CPU: 1.421875 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 6 pași, 0.681102 sec, CPU: 0.671875 sec, Mem: 0.84 MB
+  DPLL: Unsatisfiable, 2 pași, 0.008305 sec, CPU: 0.015625 sec, Mem: 0.14 MB
+
+Set 157:
+  Resolution: Unsatisfiable, 200 clauze generate, 62.229283 sec, CPU: 57.343750 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 162 pași, 1.740933 sec, CPU: 1.546875 sec, Mem: 0.40 MB
+  DPLL: Unsatisfiable, 2 pași, 0.009918 sec, CPU: 0.000000 sec, Mem: 0.14 MB
+
+Set 158:
+  Resolution: Prea dificilă, 25055 clauze generate, 110.219891 sec, CPU: 101.734375 sec, Mem: 0.00 MB
+  DP: Satisfiable, 175 pași, 1.800230 sec, CPU: 1.640625 sec, Mem: 1.28 MB
+  DPLL: Satisfiable, 65 pași, 0.112391 sec, CPU: 0.093750 sec, Mem: 0.00 MB
+
+Set 159:
+  Resolution: Unsatisfiable, 200 clauze generate, 0.158117 sec, CPU: 0.093750 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 125 pași, 2.607990 sec, CPU: 2.265625 sec, Mem: 0.10 MB
+  DPLL: Unsatisfiable, 2 pași, 0.009262 sec, CPU: 0.015625 sec, Mem: 0.50 MB
+
+Set 160:
+  Resolution: Unsatisfiable, 200 clauze generate, 17.566222 sec, CPU: 15.859375 sec, Mem: 0.49 MB
+  DP: Unsatisfiable, 4 pași, 0.481838 sec, CPU: 0.421875 sec, Mem: 0.72 MB
+  DPLL: Unsatisfiable, 2 pași, 0.008664 sec, CPU: 0.015625 sec, Mem: 0.33 MB
+
+Set 161:
+  Resolution: Unsatisfiable, 200 clauze generate, 17.662526 sec, CPU: 15.937500 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 158 pași, 1.903694 sec, CPU: 1.765625 sec, Mem: 0.94 MB
+  DPLL: Unsatisfiable, 2 pași, 0.008487 sec, CPU: 0.000000 sec, Mem: 0.01 MB
+
+Set 162:
+  Resolution: Prea dificilă, 25841 clauze generate, 110.282963 sec, CPU: 104.921875 sec, Mem: 0.00 MB
+  DP: Satisfiable, 120 pași, 1.634243 sec, CPU: 1.406250 sec, Mem: 1.06 MB
+  DPLL: Satisfiable, 70 pași, 0.132735 sec, CPU: 0.078125 sec, Mem: 0.00 MB
+
+Set 163:
+  Resolution: Prea dificilă, 24086 clauze generate, 106.310463 sec, CPU: 100.171875 sec, Mem: 0.75 MB
+  DP: Satisfiable, 139 pași, 2.466493 sec, CPU: 2.125000 sec, Mem: 0.00 MB
+  DPLL: Satisfiable, 74 pași, 0.125921 sec, CPU: 0.109375 sec, Mem: 4.53 MB
+
+Set 164:
+  Resolution: Unsatisfiable, 200 clauze generate, 0.691483 sec, CPU: 0.687500 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 184 pași, 1.740406 sec, CPU: 1.531250 sec, Mem: 1.10 MB
+  DPLL: Unsatisfiable, 2 pași, 0.005991 sec, CPU: 0.000000 sec, Mem: 0.07 MB
+
+Set 165:
+  Resolution: Unsatisfiable, 200 clauze generate, 0.167225 sec, CPU: 0.156250 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 4 pași, 0.514291 sec, CPU: 0.500000 sec, Mem: 0.16 MB
+  DPLL: Unsatisfiable, 2 pași, 0.010594 sec, CPU: 0.000000 sec, Mem: 0.14 MB
+
+Set 166:
+  Resolution: Unsatisfiable, 200 clauze generate, 0.487776 sec, CPU: 0.437500 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 169 pași, 1.988634 sec, CPU: 1.781250 sec, Mem: 0.47 MB
+  DPLL: Unsatisfiable, 2 pași, 0.008008 sec, CPU: 0.000000 sec, Mem: 0.26 MB
+
+Set 167:
+  Resolution: Prea dificilă, 25158 clauze generate, 110.184970 sec, CPU: 104.125000 sec, Mem: 0.00 MB
+  DP: Satisfiable, 141 pași, 1.911832 sec, CPU: 1.640625 sec, Mem: 0.00 MB
+  DPLL: Satisfiable, 63 pași, 0.140053 sec, CPU: 0.093750 sec, Mem: 0.19 MB
+
+Set 168:
+  Resolution: Prea dificilă, 23114 clauze generate, 103.630195 sec, CPU: 97.312500 sec, Mem: 0.00 MB
+  DP: Satisfiable, 170 pași, 1.723045 sec, CPU: 1.578125 sec, Mem: 0.38 MB
+  DPLL: Satisfiable, 76 pași, 0.142546 sec, CPU: 0.093750 sec, Mem: 0.34 MB
+
+Set 169:
+  Resolution: Prea dificilă, 23642 clauze generate, 101.715044 sec, CPU: 96.625000 sec, Mem: 0.00 MB
+  DP: Satisfiable, 175 pași, 1.739290 sec, CPU: 1.359375 sec, Mem: 0.00 MB
+  DPLL: Satisfiable, 65 pași, 0.134793 sec, CPU: 0.109375 sec, Mem: 4.25 MB
+
+Set 170:
+  Resolution: Prea dificilă, 21601 clauze generate, 95.946042 sec, CPU: 89.203125 sec, Mem: 0.00 MB
+  DP: Satisfiable, 176 pași, 2.312393 sec, CPU: 1.984375 sec, Mem: 1.67 MB
+  DPLL: Satisfiable, 76 pași, 0.141038 sec, CPU: 0.140625 sec, Mem: 4.83 MB
+
+Set 171:
+  Resolution: Prea dificilă, 26668 clauze generate, 112.215209 sec, CPU: 106.515625 sec, Mem: 0.00 MB
+  DP: Satisfiable, 153 pași, 1.779697 sec, CPU: 1.546875 sec, Mem: 0.00 MB
+  DPLL: Satisfiable, 62 pași, 0.128887 sec, CPU: 0.125000 sec, Mem: 0.00 MB
+
+Set 172:
+  Resolution: Prea dificilă, 25747 clauze generate, 113.478326 sec, CPU: 106.421875 sec, Mem: 0.00 MB
+  DP: Satisfiable, 189 pași, 2.287330 sec, CPU: 2.000000 sec, Mem: 0.17 MB
+  DPLL: Satisfiable, 66 pași, 0.133806 sec, CPU: 0.125000 sec, Mem: 4.39 MB
+
+Set 173:
+  Resolution: Prea dificilă, 23379 clauze generate, 102.234862 sec, CPU: 94.921875 sec, Mem: 0.00 MB
+  DP: Satisfiable, 180 pași, 1.719739 sec, CPU: 1.625000 sec, Mem: 1.53 MB
+  DPLL: Satisfiable, 68 pași, 0.106370 sec, CPU: 0.078125 sec, Mem: 3.79 MB
+
+Set 174:
+  Resolution: Prea dificilă, 23636 clauze generate, 104.691565 sec, CPU: 97.437500 sec, Mem: 0.00 MB
+  DP: Satisfiable, 186 pași, 1.963547 sec, CPU: 1.453125 sec, Mem: 1.22 MB
+  DPLL: Satisfiable, 75 pași, 0.163586 sec, CPU: 0.109375 sec, Mem: 4.52 MB
+
+Set 175:
+  Resolution: Prea dificilă, 24157 clauze generate, 107.733998 sec, CPU: 99.250000 sec, Mem: 0.00 MB
+  DP: Satisfiable, 126 pași, 1.971613 sec, CPU: 1.796875 sec, Mem: 1.61 MB
+  DPLL: Satisfiable, 64 pași, 0.144746 sec, CPU: 0.125000 sec, Mem: 4.54 MB
+
+Set 176:
+  Resolution: Unsatisfiable, 200 clauze generate, 2.254221 sec, CPU: 2.140625 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 12 pași, 1.411235 sec, CPU: 1.296875 sec, Mem: 0.71 MB
+  DPLL: Unsatisfiable, 2 pași, 0.008035 sec, CPU: 0.015625 sec, Mem: 0.00 MB
+
+Set 177:
+  Resolution: Prea dificilă, 23733 clauze generate, 104.589622 sec, CPU: 96.109375 sec, Mem: 0.00 MB
+  DP: Satisfiable, 148 pași, 1.761863 sec, CPU: 1.531250 sec, Mem: 0.00 MB
+  DPLL: Satisfiable, 77 pași, 0.114003 sec, CPU: 0.093750 sec, Mem: 4.91 MB
+
+Set 178:
+  Resolution: Unsatisfiable, 200 clauze generate, 3.129937 sec, CPU: 2.687500 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 157 pași, 2.062369 sec, CPU: 1.875000 sec, Mem: 0.29 MB
+  DPLL: Unsatisfiable, 2 pași, 0.011155 sec, CPU: 0.015625 sec, Mem: 0.43 MB
+
+Set 179:
+  Resolution: Unsatisfiable, 200 clauze generate, 0.916813 sec, CPU: 0.812500 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 152 pași, 1.862735 sec, CPU: 1.750000 sec, Mem: 0.41 MB
+  DPLL: Unsatisfiable, 2 pași, 0.014474 sec, CPU: 0.000000 sec, Mem: 0.41 MB
+
+Set 180:
+  Resolution: Prea dificilă, 25047 clauze generate, 106.325873 sec, CPU: 97.203125 sec, Mem: 0.00 MB
+  DP: Satisfiable, 144 pași, 1.801901 sec, CPU: 1.578125 sec, Mem: 0.56 MB
+  DPLL: Satisfiable, 71 pași, 0.117748 sec, CPU: 0.093750 sec, Mem: 4.73 MB
+
+Set 181:
+  Resolution: Prea dificilă, 23486 clauze generate, 104.092649 sec, CPU: 94.968750 sec, Mem: 0.00 MB
+  DP: Satisfiable, 169 pași, 1.282432 sec, CPU: 1.203125 sec, Mem: 0.91 MB
+  DPLL: Satisfiable, 70 pași, 0.112712 sec, CPU: 0.093750 sec, Mem: 4.45 MB
+
+Set 182:
+  Resolution: Unsatisfiable, 200 clauze generate, 39.498816 sec, CPU: 35.843750 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 175 pași, 2.174442 sec, CPU: 1.906250 sec, Mem: 1.69 MB
+  DPLL: Unsatisfiable, 2 pași, 0.016618 sec, CPU: 0.000000 sec, Mem: 0.04 MB
+
+Set 183:
+  Resolution: Prea dificilă, 27079 clauze generate, 115.014316 sec, CPU: 103.968750 sec, Mem: 0.00 MB
+  DP: Satisfiable, 154 pași, 2.625506 sec, CPU: 2.218750 sec, Mem: 0.74 MB
+  DPLL: Satisfiable, 63 pași, 0.138965 sec, CPU: 0.093750 sec, Mem: 4.84 MB
+
+Set 184:
+  Resolution: Unsatisfiable, 200 clauze generate, 7.735876 sec, CPU: 6.703125 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 132 pași, 1.574241 sec, CPU: 1.390625 sec, Mem: 1.16 MB
+  DPLL: Unsatisfiable, 2 pași, 0.014773 sec, CPU: 0.015625 sec, Mem: 0.25 MB
+
+Set 185:
+  Resolution: Prea dificilă, 25554 clauze generate, 113.640430 sec, CPU: 102.390625 sec, Mem: 0.00 MB
+  DP: Satisfiable, 177 pași, 2.077831 sec, CPU: 1.671875 sec, Mem: 1.34 MB
+  DPLL: Satisfiable, 76 pași, 0.124488 sec, CPU: 0.109375 sec, Mem: 4.54 MB
+
+Set 186:
+  Resolution: Prea dificilă, 21077 clauze generate, 92.177063 sec, CPU: 85.093750 sec, Mem: 0.00 MB
+  DP: Satisfiable, 178 pași, 1.245432 sec, CPU: 1.046875 sec, Mem: 0.23 MB
+  DPLL: Satisfiable, 72 pași, 0.125979 sec, CPU: 0.109375 sec, Mem: 0.09 MB
+
+Set 187:
+  Resolution: Unsatisfiable, 200 clauze generate, 0.970725 sec, CPU: 0.796875 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 8 pași, 1.028225 sec, CPU: 0.796875 sec, Mem: 0.98 MB
+  DPLL: Unsatisfiable, 2 pași, 0.010255 sec, CPU: 0.015625 sec, Mem: 0.20 MB
+
+Set 188:
+  Resolution: Prea dificilă, 23770 clauze generate, 106.119545 sec, CPU: 96.359375 sec, Mem: 0.00 MB
+  DP: Satisfiable, 161 pași, 1.837167 sec, CPU: 1.671875 sec, Mem: 0.00 MB
+  DPLL: Satisfiable, 73 pași, 0.109498 sec, CPU: 0.109375 sec, Mem: 4.91 MB
+
+Set 189:
+  Resolution: Prea dificilă, 23581 clauze generate, 104.432654 sec, CPU: 94.343750 sec, Mem: 0.00 MB
+  DP: Satisfiable, 168 pași, 1.860344 sec, CPU: 1.703125 sec, Mem: 1.37 MB
+  DPLL: Satisfiable, 69 pași, 0.109867 sec, CPU: 0.093750 sec, Mem: 3.55 MB
+
+Set 190:
+  Resolution: Prea dificilă, 22562 clauze generate, 95.008176 sec, CPU: 86.046875 sec, Mem: 0.00 MB
+  DP: Satisfiable, 159 pași, 1.518154 sec, CPU: 1.359375 sec, Mem: 1.05 MB
+  DPLL: Satisfiable, 76 pași, 0.107373 sec, CPU: 0.093750 sec, Mem: 4.64 MB
+
+Set 191:
+  Resolution: Prea dificilă, 26538 clauze generate, 113.765261 sec, CPU: 103.171875 sec, Mem: 0.00 MB
+  DP: Satisfiable, 128 pași, 1.712519 sec, CPU: 1.656250 sec, Mem: 1.60 MB
+  DPLL: Satisfiable, 63 pași, 0.126462 sec, CPU: 0.078125 sec, Mem: 3.58 MB
+
+Set 192:
+  Resolution: Unsatisfiable, 200 clauze generate, 11.572747 sec, CPU: 10.796875 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 157 pași, 0.997063 sec, CPU: 0.937500 sec, Mem: 1.34 MB
+  DPLL: Unsatisfiable, 2 pași, 0.008126 sec, CPU: 0.000000 sec, Mem: 0.12 MB
+
+Set 193:
+  Resolution: Prea dificilă, 25193 clauze generate, 111.254541 sec, CPU: 100.203125 sec, Mem: 0.00 MB
+  DP: Satisfiable, 158 pași, 1.840915 sec, CPU: 1.531250 sec, Mem: 0.86 MB
+  DPLL: Satisfiable, 64 pași, 0.108836 sec, CPU: 0.093750 sec, Mem: 4.41 MB
+
+Set 194:
+  Resolution: Prea dificilă, 25206 clauze generate, 113.625053 sec, CPU: 103.156250 sec, Mem: 0.00 MB
+  DP: Satisfiable, 174 pași, 1.827374 sec, CPU: 1.531250 sec, Mem: 0.81 MB
+  DPLL: Satisfiable, 64 pași, 0.119017 sec, CPU: 0.093750 sec, Mem: 4.45 MB
+
+Set 195:
+  Resolution: Prea dificilă, 21719 clauze generate, 97.162917 sec, CPU: 88.218750 sec, Mem: 0.00 MB
+  DP: Satisfiable, 171 pași, 1.600830 sec, CPU: 1.500000 sec, Mem: 1.12 MB
+  DPLL: Satisfiable, 74 pași, 0.118976 sec, CPU: 0.078125 sec, Mem: 4.81 MB
+
+Set 196:
+  Resolution: Prea dificilă, 23139 clauze generate, 101.775215 sec, CPU: 93.140625 sec, Mem: 0.00 MB
+  DP: Satisfiable, 152 pași, 1.554478 sec, CPU: 1.546875 sec, Mem: 1.02 MB
+  DPLL: Satisfiable, 69 pași, 0.105366 sec, CPU: 0.093750 sec, Mem: 0.00 MB
+
+Set 197:
+  Resolution: Prea dificilă, 23539 clauze generate, 107.024411 sec, CPU: 97.953125 sec, Mem: 0.00 MB
+  DP: Satisfiable, 166 pași, 1.843960 sec, CPU: 1.640625 sec, Mem: 1.10 MB
+  DPLL: Satisfiable, 70 pași, 0.106790 sec, CPU: 0.093750 sec, Mem: 5.10 MB
+
+Set 198:
+  Resolution: Unsatisfiable, 200 clauze generate, 58.597991 sec, CPU: 54.421875 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 146 pași, 1.647016 sec, CPU: 1.484375 sec, Mem: 0.88 MB
+  DPLL: Unsatisfiable, 2 pași, 0.010456 sec, CPU: 0.000000 sec, Mem: 0.11 MB
+
+Set 199:
+  Resolution: Unsatisfiable, 200 clauze generate, 0.071054 sec, CPU: 0.078125 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 178 pași, 2.136519 sec, CPU: 1.671875 sec, Mem: 0.16 MB
+  DPLL: Unsatisfiable, 2 pași, 0.009752 sec, CPU: 0.015625 sec, Mem: 0.00 MB
+
+Set 200:
+  Resolution: Unsatisfiable, 200 clauze generate, 0.083311 sec, CPU: 0.046875 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 10 pași, 1.057116 sec, CPU: 0.875000 sec, Mem: 0.13 MB
+  DPLL: Unsatisfiable, 2 pași, 0.007614 sec, CPU: 0.015625 sec, Mem: 0.20 MB
+
+Set 201:
+  Resolution: Prea dificilă, 23138 clauze generate, 96.113635 sec, CPU: 88.984375 sec, Mem: 0.00 MB
+  DP: Satisfiable, 175 pași, 1.964255 sec, CPU: 1.765625 sec, Mem: 1.35 MB
+  DPLL: Satisfiable, 75 pași, 0.129323 sec, CPU: 0.109375 sec, Mem: 0.00 MB
+
+Set 202:
+  Resolution: Prea dificilă, 23378 clauze generate, 103.001295 sec, CPU: 94.265625 sec, Mem: 0.00 MB
+  DP: Satisfiable, 171 pași, 1.630911 sec, CPU: 1.562500 sec, Mem: 0.67 MB
+  DPLL: Satisfiable, 65 pași, 0.120223 sec, CPU: 0.093750 sec, Mem: 5.18 MB
+
+Set 203:
+  Resolution: Prea dificilă, 24093 clauze generate, 106.191515 sec, CPU: 97.781250 sec, Mem: 0.00 MB
+  DP: Satisfiable, 149 pași, 2.172827 sec, CPU: 1.843750 sec, Mem: 0.69 MB
+  DPLL: Satisfiable, 70 pași, 0.130633 sec, CPU: 0.125000 sec, Mem: 5.51 MB
+
+Set 204:
+  Resolution: Prea dificilă, 23942 clauze generate, 101.716260 sec, CPU: 94.890625 sec, Mem: 0.00 MB
+  DP: Satisfiable, 163 pași, 1.892832 sec, CPU: 1.640625 sec, Mem: 1.13 MB
+  DPLL: Satisfiable, 68 pași, 0.124006 sec, CPU: 0.093750 sec, Mem: 4.02 MB
+
+Set 205:
+  Resolution: Prea dificilă, 22447 clauze generate, 97.693524 sec, CPU: 90.359375 sec, Mem: 0.00 MB
+  DP: Satisfiable, 180 pași, 2.012341 sec, CPU: 1.703125 sec, Mem: 1.07 MB
+  DPLL: Satisfiable, 72 pași, 0.131387 sec, CPU: 0.125000 sec, Mem: 4.43 MB
+
+Set 206:
+  Resolution: Prea dificilă, 21759 clauze generate, 90.283081 sec, CPU: 84.078125 sec, Mem: 0.00 MB
+  DP: Satisfiable, 187 pași, 2.426426 sec, CPU: 2.156250 sec, Mem: 1.16 MB
+  DPLL: Satisfiable, 73 pași, 0.113331 sec, CPU: 0.109375 sec, Mem: 4.89 MB
+
+Set 207:
+  Resolution: Unsatisfiable, 200 clauze generate, 3.150832 sec, CPU: 2.546875 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 3 pași, 0.364911 sec, CPU: 0.296875 sec, Mem: 0.67 MB
+  DPLL: Unsatisfiable, 2 pași, 0.012203 sec, CPU: 0.015625 sec, Mem: 0.19 MB
+
+Set 208:
+  Resolution: Unsatisfiable, 200 clauze generate, 4.071094 sec, CPU: 3.781250 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 4 pași, 0.443348 sec, CPU: 0.328125 sec, Mem: 0.00 MB
+  DPLL: Unsatisfiable, 2 pași, 0.010910 sec, CPU: 0.015625 sec, Mem: 0.27 MB
+
+Set 209:
+  Resolution: Unsatisfiable, 200 clauze generate, 11.795283 sec, CPU: 11.390625 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 2 pași, 0.243863 sec, CPU: 0.203125 sec, Mem: 0.00 MB
+  DPLL: Unsatisfiable, 2 pași, 0.012924 sec, CPU: 0.015625 sec, Mem: 0.44 MB
+
+Set 210:
+  Resolution: Prea dificilă, 23476 clauze generate, 105.211432 sec, CPU: 99.093750 sec, Mem: 0.00 MB
+  DP: Satisfiable, 162 pași, 1.454403 sec, CPU: 1.406250 sec, Mem: 0.79 MB
+  DPLL: Satisfiable, 73 pași, 0.125221 sec, CPU: 0.109375 sec, Mem: 4.76 MB
+
+Set 211:
+  Resolution: Prea dificilă, 22119 clauze generate, 98.762603 sec, CPU: 92.687500 sec, Mem: 0.00 MB
+  DP: Satisfiable, 173 pași, 1.638150 sec, CPU: 1.500000 sec, Mem: 1.26 MB
+  DPLL: Satisfiable, 72 pași, 0.113707 sec, CPU: 0.093750 sec, Mem: 4.38 MB
+
+Set 212:
+  Resolution: Unsatisfiable, 200 clauze generate, 6.060502 sec, CPU: 5.281250 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 10 pași, 1.272543 sec, CPU: 1.140625 sec, Mem: 0.41 MB
+  DPLL: Unsatisfiable, 2 pași, 0.015599 sec, CPU: 0.015625 sec, Mem: 0.07 MB
+
+Set 213:
+  Resolution: Prea dificilă, 24499 clauze generate, 105.435785 sec, CPU: 98.015625 sec, Mem: 0.00 MB
+  DP: Satisfiable, 150 pași, 1.934495 sec, CPU: 1.687500 sec, Mem: 0.35 MB
+  DPLL: Satisfiable, 77 pași, 0.121999 sec, CPU: 0.109375 sec, Mem: 5.06 MB
+
+Set 214:
+  Resolution: Prea dificilă, 22092 clauze generate, 92.634338 sec, CPU: 86.906250 sec, Mem: 0.71 MB
+  DP: Satisfiable, 150 pași, 2.447590 sec, CPU: 2.109375 sec, Mem: 0.00 MB
+  DPLL: Satisfiable, 68 pași, 0.140480 sec, CPU: 0.093750 sec, Mem: 5.03 MB
+
+Set 215:
+  Resolution: Unsatisfiable, 200 clauze generate, 22.837721 sec, CPU: 21.437500 sec, Mem: 0.25 MB
+  DP: Unsatisfiable, 152 pași, 1.607642 sec, CPU: 1.531250 sec, Mem: 1.30 MB
+  DPLL: Unsatisfiable, 2 pași, 0.008697 sec, CPU: 0.015625 sec, Mem: 0.07 MB
+
+Set 216:
+  Resolution: Prea dificilă, 25742 clauze generate, 109.997658 sec, CPU: 103.156250 sec, Mem: 0.00 MB
+  DP: Satisfiable, 142 pași, 2.630982 sec, CPU: 2.203125 sec, Mem: 1.39 MB
+  DPLL: Satisfiable, 78 pași, 0.137757 sec, CPU: 0.093750 sec, Mem: 0.00 MB
+
+Set 217:
+  Resolution: Prea dificilă, 23262 clauze generate, 102.513044 sec, CPU: 95.375000 sec, Mem: 0.00 MB
+  DP: Satisfiable, 169 pași, 1.434501 sec, CPU: 1.312500 sec, Mem: 1.11 MB
+  DPLL: Satisfiable, 77 pași, 0.139932 sec, CPU: 0.109375 sec, Mem: 0.00 MB
+
+Set 218:
+  Resolution: Prea dificilă, 23953 clauze generate, 105.956660 sec, CPU: 98.562500 sec, Mem: 0.00 MB
+  DP: Satisfiable, 161 pași, 1.768121 sec, CPU: 1.546875 sec, Mem: 0.78 MB
+  DPLL: Satisfiable, 70 pași, 0.139629 sec, CPU: 0.109375 sec, Mem: 5.25 MB
+
+Set 219:
+  Resolution: Prea dificilă, 20497 clauze generate, 89.509581 sec, CPU: 82.921875 sec, Mem: 0.00 MB
+  DP: Satisfiable, 158 pași, 2.166045 sec, CPU: 2.015625 sec, Mem: 0.00 MB
+  DPLL: Satisfiable, 70 pași, 0.111193 sec, CPU: 0.093750 sec, Mem: 4.11 MB
+
+Set 220:
+  Resolution: Prea dificilă, 21248 clauze generate, 90.127952 sec, CPU: 84.078125 sec, Mem: 0.00 MB
+  DP: Satisfiable, 192 pași, 2.298609 sec, CPU: 2.187500 sec, Mem: 1.64 MB
+  DPLL: Satisfiable, 70 pași, 0.139451 sec, CPU: 0.093750 sec, Mem: 4.67 MB
+
+Set 221:
+  Resolution: Unsatisfiable, 200 clauze generate, 1.024296 sec, CPU: 0.781250 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 180 pași, 1.969742 sec, CPU: 1.718750 sec, Mem: 0.89 MB
+  DPLL: Unsatisfiable, 2 pași, 0.020706 sec, CPU: 0.000000 sec, Mem: 0.01 MB
+
+Set 222:
+  Resolution: Prea dificilă, 21950 clauze generate, 97.799724 sec, CPU: 90.843750 sec, Mem: 0.00 MB
+  DP: Satisfiable, 173 pași, 2.124827 sec, CPU: 1.796875 sec, Mem: 1.39 MB
+  DPLL: Satisfiable, 75 pași, 0.144571 sec, CPU: 0.109375 sec, Mem: 0.00 MB
+
+Set 223:
+  Resolution: Prea dificilă, 23448 clauze generate, 103.964971 sec, CPU: 95.828125 sec, Mem: 0.00 MB
+  DP: Satisfiable, 181 pași, 1.922316 sec, CPU: 1.515625 sec, Mem: 1.10 MB
+  DPLL: Satisfiable, 69 pași, 0.137603 sec, CPU: 0.109375 sec, Mem: 0.00 MB
+
+Set 224:
+  Resolution: Unsatisfiable, 200 clauze generate, 75.713239 sec, CPU: 70.250000 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 165 pași, 1.809762 sec, CPU: 1.578125 sec, Mem: 1.39 MB
+  DPLL: Unsatisfiable, 2 pași, 0.010438 sec, CPU: 0.000000 sec, Mem: 0.00 MB
+
+Set 225:
+  Resolution: Unsatisfiable, 200 clauze generate, 15.312597 sec, CPU: 14.187500 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 7 pași, 0.891483 sec, CPU: 0.750000 sec, Mem: 0.62 MB
+  DPLL: Unsatisfiable, 2 pași, 0.020292 sec, CPU: 0.015625 sec, Mem: 0.39 MB
+
+Set 226:
+  Resolution: Unsatisfiable, 200 clauze generate, 16.915117 sec, CPU: 14.609375 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 153 pași, 2.297239 sec, CPU: 2.187500 sec, Mem: 1.82 MB
+  DPLL: Unsatisfiable, 2 pași, 0.010178 sec, CPU: 0.000000 sec, Mem: 0.00 MB
+
+Set 227:
+  Resolution: Prea dificilă, 23496 clauze generate, 104.856630 sec, CPU: 95.296875 sec, Mem: 0.00 MB
+  DP: Satisfiable, 178 pași, 1.860796 sec, CPU: 1.625000 sec, Mem: 1.14 MB
+  DPLL: Satisfiable, 70 pași, 0.116966 sec, CPU: 0.093750 sec, Mem: 4.00 MB
+
+Set 228:
+  Resolution: Prea dificilă, 24321 clauze generate, 108.022694 sec, CPU: 99.281250 sec, Mem: 0.00 MB
+  DP: Satisfiable, 174 pași, 1.654225 sec, CPU: 1.343750 sec, Mem: 1.00 MB
+  DPLL: Satisfiable, 69 pași, 0.135263 sec, CPU: 0.093750 sec, Mem: 4.93 MB
+
+Set 229:
+  Resolution: Prea dificilă, 22921 clauze generate, 99.025897 sec, CPU: 91.296875 sec, Mem: 0.00 MB
+  DP: Satisfiable, 147 pași, 2.445459 sec, CPU: 2.265625 sec, Mem: 0.00 MB
+  DPLL: Satisfiable, 81 pași, 0.129929 sec, CPU: 0.125000 sec, Mem: 5.46 MB
+
+Set 230:
+  Resolution: Prea dificilă, 21859 clauze generate, 98.264994 sec, CPU: 90.265625 sec, Mem: 0.00 MB
+  DP: Satisfiable, 182 pași, 2.462868 sec, CPU: 2.031250 sec, Mem: 0.75 MB
+  DPLL: Satisfiable, 76 pași, 0.139106 sec, CPU: 0.062500 sec, Mem: 4.07 MB
+
+Set 231:
+  Resolution: Prea dificilă, 25180 clauze generate, 112.869398 sec, CPU: 102.875000 sec, Mem: 0.00 MB
+  DP: Satisfiable, 154 pași, 2.027238 sec, CPU: 1.703125 sec, Mem: 1.14 MB
+  DPLL: Satisfiable, 67 pași, 0.123505 sec, CPU: 0.093750 sec, Mem: 4.29 MB
+
+Set 232:
+  Resolution: Prea dificilă, 21122 clauze generate, 95.070110 sec, CPU: 86.062500 sec, Mem: 0.16 MB
+  DP: Satisfiable, 161 pași, 1.985693 sec, CPU: 1.640625 sec, Mem: 1.39 MB
+  DPLL: Satisfiable, 76 pași, 0.123410 sec, CPU: 0.109375 sec, Mem: 4.86 MB
+
+Set 233:
+  Resolution: Prea dificilă, 24599 clauze generate, 110.464343 sec, CPU: 100.968750 sec, Mem: 0.00 MB
+  DP: Satisfiable, 155 pași, 2.051200 sec, CPU: 1.765625 sec, Mem: 0.66 MB
+  DPLL: Satisfiable, 77 pași, 0.133336 sec, CPU: 0.109375 sec, Mem: 5.65 MB
+
+Set 234:
+  Resolution: Prea dificilă, 24919 clauze generate, 114.304203 sec, CPU: 102.656250 sec, Mem: 0.00 MB
+  DP: Satisfiable, 189 pași, 1.616872 sec, CPU: 1.546875 sec, Mem: 1.10 MB
+  DPLL: Satisfiable, 77 pași, 0.113014 sec, CPU: 0.093750 sec, Mem: 5.17 MB
+
+Set 235:
+  Resolution: Prea dificilă, 22978 clauze generate, 102.674923 sec, CPU: 93.828125 sec, Mem: 0.00 MB
+  DP: Satisfiable, 185 pași, 1.889389 sec, CPU: 1.625000 sec, Mem: 0.02 MB
+  DPLL: Satisfiable, 75 pași, 0.150095 sec, CPU: 0.125000 sec, Mem: 5.05 MB
+
+Set 236:
+  Resolution: Prea dificilă, 22452 clauze generate, 96.152439 sec, CPU: 88.937500 sec, Mem: 0.00 MB
+  DP: Satisfiable, 146 pași, 2.545735 sec, CPU: 2.218750 sec, Mem: 1.34 MB
+  DPLL: Satisfiable, 74 pași, 0.112459 sec, CPU: 0.109375 sec, Mem: 3.99 MB
+
+Set 237:
+  Resolution: Prea dificilă, 21161 clauze generate, 91.040211 sec, CPU: 81.765625 sec, Mem: 0.00 MB
+  DP: Satisfiable, 179 pași, 1.303767 sec, CPU: 1.218750 sec, Mem: 1.07 MB
+  DPLL: Satisfiable, 74 pași, 0.107600 sec, CPU: 0.093750 sec, Mem: 3.53 MB
+
+Set 238:
+  Resolution: Prea dificilă, 21142 clauze generate, 89.390759 sec, CPU: 83.218750 sec, Mem: 0.00 MB
+  DP: Satisfiable, 172 pași, 1.690433 sec, CPU: 1.515625 sec, Mem: 1.08 MB
+  DPLL: Satisfiable, 79 pași, 0.097984 sec, CPU: 0.093750 sec, Mem: 5.00 MB
+
+Set 239:
+  Resolution: Unsatisfiable, 200 clauze generate, 9.388716 sec, CPU: 8.703125 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 162 pași, 2.132550 sec, CPU: 1.781250 sec, Mem: 1.35 MB
+  DPLL: Unsatisfiable, 2 pași, 0.013821 sec, CPU: 0.015625 sec, Mem: 0.11 MB
+
+Set 240:
+  Resolution: Unsatisfiable, 200 clauze generate, 1.531627 sec, CPU: 1.406250 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 161 pași, 2.328470 sec, CPU: 2.046875 sec, Mem: 1.98 MB
+  DPLL: Unsatisfiable, 2 pași, 0.008602 sec, CPU: 0.015625 sec, Mem: 0.02 MB
+
+Set 241:
+  Resolution: Unsatisfiable, 200 clauze generate, 2.120635 sec, CPU: 1.843750 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 140 pași, 1.932230 sec, CPU: 1.515625 sec, Mem: 1.01 MB
+  DPLL: Unsatisfiable, 2 pași, 0.012297 sec, CPU: 0.015625 sec, Mem: 0.01 MB
+
+Set 242:
+  Resolution: Prea dificilă, 21410 clauze generate, 95.062823 sec, CPU: 90.750000 sec, Mem: 0.00 MB
+  DP: Satisfiable, 174 pași, 2.432624 sec, CPU: 2.171875 sec, Mem: 1.17 MB
+  DPLL: Satisfiable, 81 pași, 0.124955 sec, CPU: 0.109375 sec, Mem: 4.07 MB
+
+Set 243:
+  Resolution: Unsatisfiable, 200 clauze generate, 0.244213 sec, CPU: 0.171875 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 186 pași, 2.272552 sec, CPU: 1.937500 sec, Mem: 0.80 MB
+  DPLL: Unsatisfiable, 2 pași, 0.010702 sec, CPU: 0.015625 sec, Mem: 0.00 MB
+
+Set 244:
+  Resolution: Prea dificilă, 25187 clauze generate, 115.131382 sec, CPU: 106.406250 sec, Mem: 0.00 MB
+  DP: Satisfiable, 155 pași, 1.663084 sec, CPU: 1.531250 sec, Mem: 1.12 MB
+  DPLL: Satisfiable, 68 pași, 0.109250 sec, CPU: 0.109375 sec, Mem: 4.86 MB
+
+Set 245:
+  Resolution: Unsatisfiable, 200 clauze generate, 0.396762 sec, CPU: 0.359375 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 168 pași, 2.007230 sec, CPU: 1.703125 sec, Mem: 0.00 MB
+  DPLL: Unsatisfiable, 2 pași, 0.009004 sec, CPU: 0.015625 sec, Mem: 0.00 MB
+
+Set 246:
+  Resolution: Prea dificilă, 24089 clauze generate, 108.283994 sec, CPU: 102.093750 sec, Mem: 0.00 MB
+  DP: Satisfiable, 176 pași, 1.983717 sec, CPU: 1.656250 sec, Mem: 0.70 MB
+  DPLL: Satisfiable, 74 pași, 0.132143 sec, CPU: 0.093750 sec, Mem: 4.27 MB
+
+Set 247:
+  Resolution: Prea dificilă, 21927 clauze generate, 100.109949 sec, CPU: 91.718750 sec, Mem: 0.00 MB
+  DP: Satisfiable, 162 pași, 1.819013 sec, CPU: 1.718750 sec, Mem: 0.66 MB
+  DPLL: Satisfiable, 72 pași, 0.116740 sec, CPU: 0.109375 sec, Mem: 0.10 MB
+
+Set 248:
+  Resolution: Prea dificilă, 25947 clauze generate, 117.422325 sec, CPU: 109.296875 sec, Mem: 0.00 MB
+  DP: Satisfiable, 136 pași, 2.152300 sec, CPU: 2.000000 sec, Mem: 1.53 MB
+  DPLL: Satisfiable, 72 pași, 0.127472 sec, CPU: 0.109375 sec, Mem: 5.05 MB
+
+Set 249:
+  Resolution: Prea dificilă, 22719 clauze generate, 103.202769 sec, CPU: 95.140625 sec, Mem: 0.00 MB
+  DP: Satisfiable, 188 pași, 2.342685 sec, CPU: 2.125000 sec, Mem: 1.62 MB
+  DPLL: Satisfiable, 76 pași, 0.115298 sec, CPU: 0.125000 sec, Mem: 4.03 MB
+
+Set 250:
+  Resolution: Prea dificilă, 25477 clauze generate, 115.488814 sec, CPU: 108.390625 sec, Mem: 0.00 MB
+  DP: Satisfiable, 160 pași, 1.328032 sec, CPU: 1.187500 sec, Mem: 0.56 MB
+  DPLL: Satisfiable, 70 pași, 0.102978 sec, CPU: 0.078125 sec, Mem: 4.50 MB
+
+Set 251:
+  Resolution: Prea dificilă, 25208 clauze generate, 110.992012 sec, CPU: 102.843750 sec, Mem: 0.00 MB
+  DP: Satisfiable, 127 pași, 1.685111 sec, CPU: 1.562500 sec, Mem: 1.28 MB
+  DPLL: Satisfiable, 66 pași, 0.085224 sec, CPU: 0.093750 sec, Mem: 4.22 MB
+
+Set 252:
+  Resolution: Unsatisfiable, 200 clauze generate, 1.384948 sec, CPU: 1.187500 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 184 pași, 1.788384 sec, CPU: 1.531250 sec, Mem: 0.98 MB
+  DPLL: Unsatisfiable, 2 pași, 0.011492 sec, CPU: 0.015625 sec, Mem: 0.16 MB
+
+Set 253:
+  Resolution: Prea dificilă, 22407 clauze generate, 96.409916 sec, CPU: 90.703125 sec, Mem: 0.00 MB
+  DP: Satisfiable, 181 pași, 1.964366 sec, CPU: 1.750000 sec, Mem: 0.90 MB
+  DPLL: Satisfiable, 75 pași, 0.132852 sec, CPU: 0.140625 sec, Mem: 0.26 MB
+
+Set 254:
+  Resolution: Prea dificilă, 25233 clauze generate, 109.799972 sec, CPU: 102.312500 sec, Mem: 0.00 MB
+  DP: Satisfiable, 161 pași, 1.769060 sec, CPU: 1.468750 sec, Mem: 1.23 MB
+  DPLL: Satisfiable, 68 pași, 0.150319 sec, CPU: 0.109375 sec, Mem: 5.20 MB
+
+Set 255:
+  Resolution: Prea dificilă, 24119 clauze generate, 109.405324 sec, CPU: 102.265625 sec, Mem: 0.00 MB
+  DP: Satisfiable, 183 pași, 1.904326 sec, CPU: 1.765625 sec, Mem: 0.80 MB
+  DPLL: Satisfiable, 75 pași, 0.154683 sec, CPU: 0.109375 sec, Mem: 5.67 MB
+
+Set 256:
+  Resolution: Unsatisfiable, 200 clauze generate, 9.786182 sec, CPU: 9.531250 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 143 pași, 1.908518 sec, CPU: 1.859375 sec, Mem: 1.15 MB
+  DPLL: Unsatisfiable, 2 pași, 0.013054 sec, CPU: 0.015625 sec, Mem: 0.00 MB
+
+Set 257:
+  Resolution: Prea dificilă, 22888 clauze generate, 100.704728 sec, CPU: 94.484375 sec, Mem: 0.00 MB
+  DP: Satisfiable, 133 pași, 1.954950 sec, CPU: 1.703125 sec, Mem: 0.89 MB
+  DPLL: Satisfiable, 73 pași, 0.125431 sec, CPU: 0.078125 sec, Mem: 5.09 MB
+
+Set 258:
+  Resolution: Unsatisfiable, 200 clauze generate, 3.198615 sec, CPU: 2.812500 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 5 pași, 0.564336 sec, CPU: 0.515625 sec, Mem: 0.81 MB
+  DPLL: Unsatisfiable, 2 pași, 0.016042 sec, CPU: 0.000000 sec, Mem: 0.19 MB
+
+Set 259:
+  Resolution: Unsatisfiable, 200 clauze generate, 34.860962 sec, CPU: 32.765625 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 7 pași, 0.929247 sec, CPU: 0.828125 sec, Mem: 1.04 MB
+  DPLL: Unsatisfiable, 2 pași, 0.009003 sec, CPU: 0.015625 sec, Mem: 0.05 MB
+
+Set 260:
+  Resolution: Unsatisfiable, 200 clauze generate, 11.129128 sec, CPU: 10.453125 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 163 pași, 1.734213 sec, CPU: 1.593750 sec, Mem: 1.16 MB
+  DPLL: Unsatisfiable, 2 pași, 0.008766 sec, CPU: 0.015625 sec, Mem: 0.09 MB
+
+Set 261:
+  Resolution: Prea dificilă, 20656 clauze generate, 84.825542 sec, CPU: 78.781250 sec, Mem: 0.00 MB
+  DP: Satisfiable, 149 pași, 1.800934 sec, CPU: 1.671875 sec, Mem: 1.12 MB
+  DPLL: Satisfiable, 72 pași, 0.112206 sec, CPU: 0.078125 sec, Mem: 3.80 MB
+
+Set 262:
+  Resolution: Unsatisfiable, 200 clauze generate, 0.106898 sec, CPU: 0.062500 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 181 pași, 1.524519 sec, CPU: 1.359375 sec, Mem: 0.00 MB
+  DPLL: Unsatisfiable, 2 pași, 0.007054 sec, CPU: 0.000000 sec, Mem: 0.00 MB
+
+Set 263:
+  Resolution: Prea dificilă, 22475 clauze generate, 99.756405 sec, CPU: 93.078125 sec, Mem: 0.00 MB
+  DP: Satisfiable, 171 pași, 1.860998 sec, CPU: 1.750000 sec, Mem: 1.27 MB
+  DPLL: Satisfiable, 69 pași, 0.107712 sec, CPU: 0.093750 sec, Mem: 4.51 MB
+
+Set 264:
+  Resolution: Prea dificilă, 22436 clauze generate, 101.216179 sec, CPU: 93.453125 sec, Mem: 0.00 MB
+  DP: Satisfiable, 151 pași, 2.312663 sec, CPU: 2.125000 sec, Mem: 1.61 MB
+  DPLL: Satisfiable, 71 pași, 0.116684 sec, CPU: 0.109375 sec, Mem: 4.79 MB
+
+Set 265:
+  Resolution: Unsatisfiable, 200 clauze generate, 0.184858 sec, CPU: 0.156250 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 152 pași, 1.831869 sec, CPU: 1.531250 sec, Mem: 1.28 MB
+  DPLL: Unsatisfiable, 2 pași, 0.010604 sec, CPU: 0.015625 sec, Mem: 0.25 MB
+
+Set 266:
+  Resolution: Prea dificilă, 23544 clauze generate, 103.468161 sec, CPU: 96.859375 sec, Mem: 0.00 MB
+  DP: Satisfiable, 141 pași, 1.674491 sec, CPU: 1.515625 sec, Mem: 0.51 MB
+  DPLL: Satisfiable, 75 pași, 0.148653 sec, CPU: 0.109375 sec, Mem: 4.48 MB
+
+Set 267:
+  Resolution: Prea dificilă, 23300 clauze generate, 103.743564 sec, CPU: 95.984375 sec, Mem: 0.00 MB
+  DP: Satisfiable, 118 pași, 1.810540 sec, CPU: 1.640625 sec, Mem: 1.46 MB
+  DPLL: Satisfiable, 70 pași, 0.157998 sec, CPU: 0.140625 sec, Mem: 0.00 MB
+
+Set 268:
+  Resolution: Prea dificilă, 22128 clauze generate, 98.480228 sec, CPU: 91.828125 sec, Mem: 0.00 MB
+  DP: Satisfiable, 132 pași, 1.847003 sec, CPU: 1.734375 sec, Mem: 1.25 MB
+  DPLL: Satisfiable, 77 pași, 0.129902 sec, CPU: 0.109375 sec, Mem: 4.63 MB
+
+Set 269:
+  Resolution: Unsatisfiable, 200 clauze generate, 11.462711 sec, CPU: 10.343750 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 152 pași, 1.589639 sec, CPU: 1.531250 sec, Mem: 1.02 MB
+  DPLL: Unsatisfiable, 2 pași, 0.010444 sec, CPU: 0.015625 sec, Mem: 0.32 MB
+
+Set 270:
+  Resolution: Prea dificilă, 24764 clauze generate, 108.819577 sec, CPU: 100.640625 sec, Mem: 0.00 MB
+  DP: Satisfiable, 179 pași, 1.639097 sec, CPU: 1.437500 sec, Mem: 0.48 MB
+  DPLL: Satisfiable, 69 pași, 0.124677 sec, CPU: 0.109375 sec, Mem: 3.53 MB
+
+Set 271:
+  Resolution: Prea dificilă, 23605 clauze generate, 103.338896 sec, CPU: 95.312500 sec, Mem: 0.00 MB
+  DP: Satisfiable, 170 pași, 1.421861 sec, CPU: 1.296875 sec, Mem: 1.11 MB
+  DPLL: Satisfiable, 74 pași, 0.130946 sec, CPU: 0.125000 sec, Mem: 5.29 MB
+
+Set 272:
+  Resolution: Prea dificilă, 24870 clauze generate, 104.988874 sec, CPU: 97.421875 sec, Mem: 0.00 MB
+  DP: Satisfiable, 176 pași, 1.983140 sec, CPU: 1.937500 sec, Mem: 1.65 MB
+  DPLL: Satisfiable, 72 pași, 0.137763 sec, CPU: 0.140625 sec, Mem: 4.09 MB
+
+Set 273:
+  Resolution: Prea dificilă, 23490 clauze generate, 103.655582 sec, CPU: 95.984375 sec, Mem: 0.77 MB
+  DP: Satisfiable, 168 pași, 2.064350 sec, CPU: 2.015625 sec, Mem: 0.92 MB
+  DPLL: Satisfiable, 75 pași, 0.114127 sec, CPU: 0.109375 sec, Mem: 3.90 MB
+
+Set 274:
+  Resolution: Prea dificilă, 24120 clauze generate, 109.772593 sec, CPU: 100.687500 sec, Mem: 0.00 MB
+  DP: Satisfiable, 125 pași, 1.821601 sec, CPU: 1.656250 sec, Mem: 1.15 MB
+  DPLL: Satisfiable, 69 pași, 0.137052 sec, CPU: 0.093750 sec, Mem: 4.78 MB
+
+Set 275:
+  Resolution: Unsatisfiable, 200 clauze generate, 2.273289 sec, CPU: 2.093750 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 141 pași, 1.374056 sec, CPU: 1.187500 sec, Mem: 1.00 MB
+  DPLL: Unsatisfiable, 2 pași, 0.007245 sec, CPU: 0.000000 sec, Mem: 0.11 MB
+
+Set 276:
+  Resolution: Prea dificilă, 20430 clauze generate, 91.659135 sec, CPU: 86.312500 sec, Mem: 0.00 MB
+  DP: Satisfiable, 191 pași, 2.254101 sec, CPU: 2.015625 sec, Mem: 1.45 MB
+  DPLL: Satisfiable, 71 pași, 0.117532 sec, CPU: 0.109375 sec, Mem: 4.37 MB
+
+Set 277:
+  Resolution: Prea dificilă, 23236 clauze generate, 103.476616 sec, CPU: 96.000000 sec, Mem: 0.00 MB
+  DP: Satisfiable, 154 pași, 1.857235 sec, CPU: 1.578125 sec, Mem: 1.43 MB
+  DPLL: Satisfiable, 75 pași, 0.127184 sec, CPU: 0.125000 sec, Mem: 3.73 MB
+
+Set 278:
+  Resolution: Unsatisfiable, 200 clauze generate, 1.133764 sec, CPU: 1.109375 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 6 pași, 0.567216 sec, CPU: 0.546875 sec, Mem: 0.73 MB
+  DPLL: Unsatisfiable, 2 pași, 0.008955 sec, CPU: 0.000000 sec, Mem: 0.25 MB
+
+Set 279:
+  Resolution: Prea dificilă, 23684 clauze generate, 103.632136 sec, CPU: 98.859375 sec, Mem: 0.00 MB
+  DP: Satisfiable, 179 pași, 1.635478 sec, CPU: 1.515625 sec, Mem: 0.67 MB
+  DPLL: Satisfiable, 78 pași, 0.119144 sec, CPU: 0.093750 sec, Mem: 4.86 MB
+
+Set 280:
+  Resolution: Unsatisfiable, 200 clauze generate, 9.780460 sec, CPU: 9.343750 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 167 pași, 1.697483 sec, CPU: 1.578125 sec, Mem: 1.04 MB
+  DPLL: Unsatisfiable, 2 pași, 0.007115 sec, CPU: 0.015625 sec, Mem: 0.17 MB
+
+Set 281:
+  Resolution: Unsatisfiable, 200 clauze generate, 1.125041 sec, CPU: 1.046875 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 152 pași, 1.993658 sec, CPU: 1.812500 sec, Mem: 1.14 MB
+  DPLL: Unsatisfiable, 2 pași, 0.017232 sec, CPU: 0.015625 sec, Mem: 0.00 MB
+
+Set 282:
+  Resolution: Prea dificilă, 22760 clauze generate, 95.303513 sec, CPU: 90.437500 sec, Mem: 0.00 MB
+  DP: Satisfiable, 180 pași, 2.449731 sec, CPU: 2.125000 sec, Mem: 0.26 MB
+  DPLL: Satisfiable, 78 pași, 0.144376 sec, CPU: 0.093750 sec, Mem: 5.30 MB
+
+Set 283:
+  Resolution: Unsatisfiable, 200 clauze generate, 3.536161 sec, CPU: 3.203125 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 181 pași, 1.891116 sec, CPU: 1.671875 sec, Mem: 1.12 MB
+  DPLL: Unsatisfiable, 2 pași, 0.013863 sec, CPU: 0.000000 sec, Mem: 0.09 MB
+
+Set 284:
+  Resolution: Prea dificilă, 27560 clauze generate, 122.510962 sec, CPU: 113.750000 sec, Mem: 0.00 MB
+  DP: Satisfiable, 175 pași, 1.682110 sec, CPU: 1.531250 sec, Mem: 1.16 MB
+  DPLL: Satisfiable, 67 pași, 0.138826 sec, CPU: 0.093750 sec, Mem: 4.66 MB
+
+Set 285:
+  Resolution: Prea dificilă, 22990 clauze generate, 101.379459 sec, CPU: 94.671875 sec, Mem: 0.00 MB
+  DP: Satisfiable, 154 pași, 2.009179 sec, CPU: 1.953125 sec, Mem: 1.03 MB
+  DPLL: Satisfiable, 72 pași, 0.106532 sec, CPU: 0.109375 sec, Mem: 4.07 MB
+
+Set 286:
+  Resolution: Prea dificilă, 23585 clauze generate, 105.620302 sec, CPU: 98.640625 sec, Mem: 0.14 MB
+  DP: Satisfiable, 176 pași, 1.773042 sec, CPU: 1.625000 sec, Mem: 0.39 MB
+  DPLL: Satisfiable, 69 pași, 0.129854 sec, CPU: 0.078125 sec, Mem: 4.20 MB
+
+Set 287:
+  Resolution: Prea dificilă, 26361 clauze generate, 113.276249 sec, CPU: 106.406250 sec, Mem: 0.00 MB
+  DP: Satisfiable, 155 pași, 1.473688 sec, CPU: 1.406250 sec, Mem: 0.86 MB
+  DPLL: Satisfiable, 72 pași, 0.113787 sec, CPU: 0.078125 sec, Mem: 4.53 MB
+
+Set 288:
+  Resolution: Prea dificilă, 23297 clauze generate, 99.784769 sec, CPU: 93.656250 sec, Mem: 0.00 MB
+  DP: Satisfiable, 157 pași, 2.532439 sec, CPU: 2.250000 sec, Mem: 1.62 MB
+  DPLL: Satisfiable, 71 pași, 0.135620 sec, CPU: 0.062500 sec, Mem: 3.15 MB
+
+Set 289:
+  Resolution: Prea dificilă, 25131 clauze generate, 114.192522 sec, CPU: 105.671875 sec, Mem: 0.00 MB
+  DP: Satisfiable, 157 pași, 1.808725 sec, CPU: 1.593750 sec, Mem: 0.00 MB
+  DPLL: Satisfiable, 72 pași, 0.140162 sec, CPU: 0.125000 sec, Mem: 5.36 MB
+
+Set 290:
+  Resolution: Prea dificilă, 24943 clauze generate, 111.178374 sec, CPU: 103.437500 sec, Mem: 0.00 MB
+  DP: Satisfiable, 141 pași, 1.843184 sec, CPU: 1.593750 sec, Mem: 0.60 MB
+  DPLL: Satisfiable, 69 pași, 0.101016 sec, CPU: 0.093750 sec, Mem: 4.74 MB
+
+Set 291:
+  Resolution: Prea dificilă, 25802 clauze generate, 108.772830 sec, CPU: 102.750000 sec, Mem: 0.00 MB
+  DP: Satisfiable, 166 pași, 1.834148 sec, CPU: 1.687500 sec, Mem: 1.59 MB
+  DPLL: Satisfiable, 73 pași, 0.129458 sec, CPU: 0.093750 sec, Mem: 4.74 MB
+
+Set 292:
+  Resolution: Prea dificilă, 23757 clauze generate, 108.225269 sec, CPU: 100.203125 sec, Mem: 0.00 MB
+  DP: Satisfiable, 186 pași, 2.643931 sec, CPU: 2.562500 sec, Mem: 1.65 MB
+  DPLL: Satisfiable, 69 pași, 0.124299 sec, CPU: 0.093750 sec, Mem: 3.78 MB
+
+Set 293:
+  Resolution: Prea dificilă, 22178 clauze generate, 99.500032 sec, CPU: 93.312500 sec, Mem: 0.00 MB
+  DP: Satisfiable, 145 pași, 1.633926 sec, CPU: 1.312500 sec, Mem: 1.43 MB
+  DPLL: Satisfiable, 75 pași, 0.108549 sec, CPU: 0.078125 sec, Mem: 4.43 MB
+
+Set 294:
+  Resolution: Prea dificilă, 24123 clauze generate, 105.417271 sec, CPU: 97.890625 sec, Mem: 0.00 MB
+  DP: Satisfiable, 155 pași, 1.949768 sec, CPU: 1.734375 sec, Mem: 1.02 MB
+  DPLL: Satisfiable, 63 pași, 0.115781 sec, CPU: 0.093750 sec, Mem: 4.32 MB
+
+Set 295:
+  Resolution: Unsatisfiable, 200 clauze generate, 0.755641 sec, CPU: 0.640625 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 173 pași, 2.124935 sec, CPU: 1.765625 sec, Mem: 1.07 MB
+  DPLL: Unsatisfiable, 2 pași, 0.008908 sec, CPU: 0.015625 sec, Mem: 0.00 MB
+
+Set 296:
+  Resolution: Unsatisfiable, 200 clauze generate, 9.418912 sec, CPU: 8.796875 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 164 pași, 1.730750 sec, CPU: 1.453125 sec, Mem: 0.99 MB
+  DPLL: Unsatisfiable, 2 pași, 0.010288 sec, CPU: 0.015625 sec, Mem: 0.05 MB
+
+Set 297:
+  Resolution: Prea dificilă, 22844 clauze generate, 100.204310 sec, CPU: 92.578125 sec, Mem: 0.00 MB
+  DP: Satisfiable, 188 pași, 1.501272 sec, CPU: 1.328125 sec, Mem: 0.85 MB
+  DPLL: Satisfiable, 77 pași, 0.114069 sec, CPU: 0.109375 sec, Mem: 4.52 MB
+
+Set 298:
+  Resolution: Prea dificilă, 23229 clauze generate, 97.423473 sec, CPU: 90.921875 sec, Mem: 0.00 MB
+  DP: Satisfiable, 164 pași, 1.949878 sec, CPU: 1.828125 sec, Mem: 1.24 MB
+  DPLL: Satisfiable, 76 pași, 0.124408 sec, CPU: 0.109375 sec, Mem: 3.98 MB
+
+Set 299:
+  Resolution: Unsatisfiable, 200 clauze generate, 1.102053 sec, CPU: 0.890625 sec, Mem: 7.42 MB
+  DP: Unsatisfiable, 178 pași, 1.496451 sec, CPU: 1.453125 sec, Mem: 0.00 MB
+  DPLL: Unsatisfiable, 2 pași, 0.006835 sec, CPU: 0.000000 sec, Mem: 0.12 MB
+
+Set 300:
+  Resolution: Unsatisfiable, 200 clauze generate, 3.289780 sec, CPU: 2.796875 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 154 pași, 2.054419 sec, CPU: 1.890625 sec, Mem: 1.52 MB
+  DPLL: Unsatisfiable, 2 pași, 0.009679 sec, CPU: 0.000000 sec, Mem: 0.12 MB
+
+Set 301:
+  Resolution: Unsatisfiable, 200 clauze generate, 21.822703 sec, CPU: 20.109375 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 1 pași, 0.119699 sec, CPU: 0.093750 sec, Mem: 0.53 MB
+  DPLL: Unsatisfiable, 2 pași, 0.009275 sec, CPU: 0.000000 sec, Mem: 0.50 MB
+
+Set 302:
+  Resolution: Prea dificilă, 21889 clauze generate, 97.816769 sec, CPU: 91.500000 sec, Mem: 0.00 MB
+  DP: Satisfiable, 131 pași, 2.037594 sec, CPU: 1.812500 sec, Mem: 0.61 MB
+  DPLL: Satisfiable, 71 pași, 0.145236 sec, CPU: 0.125000 sec, Mem: 4.80 MB
+
+Set 303:
+  Resolution: Prea dificilă, 22933 clauze generate, 102.233783 sec, CPU: 94.968750 sec, Mem: 0.00 MB
+  DP: Satisfiable, 163 pași, 1.644646 sec, CPU: 1.328125 sec, Mem: 1.03 MB
+  DPLL: Satisfiable, 78 pași, 0.124801 sec, CPU: 0.125000 sec, Mem: 0.20 MB
+
+Set 304:
+  Resolution: Prea dificilă, 25024 clauze generate, 109.707153 sec, CPU: 101.453125 sec, Mem: 0.00 MB
+  DP: Satisfiable, 186 pași, 3.105352 sec, CPU: 2.656250 sec, Mem: 2.08 MB
+  DPLL: Satisfiable, 74 pași, 0.130783 sec, CPU: 0.109375 sec, Mem: 4.86 MB
+
+Set 305:
+  Resolution: Unsatisfiable, 200 clauze generate, 0.591204 sec, CPU: 0.484375 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 181 pași, 1.379770 sec, CPU: 1.187500 sec, Mem: 1.16 MB
+  DPLL: Unsatisfiable, 2 pași, 0.009879 sec, CPU: 0.000000 sec, Mem: 0.25 MB
+
+Set 306:
+  Resolution: Prea dificilă, 24573 clauze generate, 109.171723 sec, CPU: 100.828125 sec, Mem: 0.00 MB
+  DP: Satisfiable, 169 pași, 1.790780 sec, CPU: 1.546875 sec, Mem: 0.55 MB
+  DPLL: Satisfiable, 66 pași, 0.119838 sec, CPU: 0.109375 sec, Mem: 4.69 MB
+
+Set 307:
+  Resolution: Unsatisfiable, 200 clauze generate, 2.433145 sec, CPU: 2.250000 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 183 pași, 2.154520 sec, CPU: 2.062500 sec, Mem: 1.66 MB
+  DPLL: Unsatisfiable, 2 pași, 0.009816 sec, CPU: 0.015625 sec, Mem: 0.06 MB
+
+Set 308:
+  Resolution: Prea dificilă, 22259 clauze generate, 99.945938 sec, CPU: 92.546875 sec, Mem: 0.00 MB
+  DP: Satisfiable, 182 pași, 2.037786 sec, CPU: 1.750000 sec, Mem: 1.57 MB
+  DPLL: Satisfiable, 69 pași, 0.119315 sec, CPU: 0.093750 sec, Mem: 4.13 MB
+
+Set 309:
+  Resolution: Prea dificilă, 24257 clauze generate, 106.709885 sec, CPU: 98.734375 sec, Mem: 0.00 MB
+  DP: Satisfiable, 171 pași, 2.017161 sec, CPU: 1.703125 sec, Mem: 0.87 MB
+  DPLL: Satisfiable, 64 pași, 0.090697 sec, CPU: 0.078125 sec, Mem: 3.66 MB
+
+Set 310:
+  Resolution: Prea dificilă, 21887 clauze generate, 98.017332 sec, CPU: 91.265625 sec, Mem: 0.00 MB
+  DP: Satisfiable, 151 pași, 2.373743 sec, CPU: 1.953125 sec, Mem: 0.00 MB
+  DPLL: Satisfiable, 73 pași, 0.114929 sec, CPU: 0.093750 sec, Mem: 5.29 MB
+
+Set 311:
+  Resolution: Unsatisfiable, 200 clauze generate, 0.220132 sec, CPU: 0.140625 sec, Mem: 4.18 MB
+  DP: Unsatisfiable, 144 pași, 1.919682 sec, CPU: 1.718750 sec, Mem: 0.16 MB
+  DPLL: Unsatisfiable, 2 pași, 0.009336 sec, CPU: 0.015625 sec, Mem: 0.00 MB
+
+Set 312:
+  Resolution: Prea dificilă, 22269 clauze generate, 93.906807 sec, CPU: 86.437500 sec, Mem: 0.00 MB
+  DP: Satisfiable, 158 pași, 2.500442 sec, CPU: 2.140625 sec, Mem: 1.10 MB
+  DPLL: Satisfiable, 73 pași, 0.127225 sec, CPU: 0.093750 sec, Mem: 3.73 MB
+
+Set 313:
+  Resolution: Prea dificilă, 26643 clauze generate, 116.598731 sec, CPU: 107.937500 sec, Mem: 0.00 MB
+  DP: Satisfiable, 161 pași, 1.057096 sec, CPU: 1.015625 sec, Mem: 0.93 MB
+  DPLL: Satisfiable, 70 pași, 0.089367 sec, CPU: 0.078125 sec, Mem: 4.29 MB
+
+Set 314:
+  Resolution: Unsatisfiable, 200 clauze generate, 21.495718 sec, CPU: 20.031250 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 164 pași, 1.592103 sec, CPU: 1.531250 sec, Mem: 0.98 MB
+  DPLL: Unsatisfiable, 2 pași, 0.012616 sec, CPU: 0.015625 sec, Mem: 0.16 MB
+
+Set 315:
+  Resolution: Prea dificilă, 22085 clauze generate, 96.294841 sec, CPU: 90.156250 sec, Mem: 0.00 MB
+  DP: Satisfiable, 182 pași, 1.710530 sec, CPU: 1.656250 sec, Mem: 1.29 MB
+  DPLL: Satisfiable, 69 pași, 0.085947 sec, CPU: 0.078125 sec, Mem: 4.16 MB
+
+Set 316:
+  Resolution: Unsatisfiable, 200 clauze generate, 0.055941 sec, CPU: 0.046875 sec, Mem: 0.54 MB
+  DP: Unsatisfiable, 10 pași, 1.215821 sec, CPU: 1.078125 sec, Mem: 0.00 MB
+  DPLL: Unsatisfiable, 2 pași, 0.008830 sec, CPU: 0.000000 sec, Mem: 0.62 MB
+
+Set 317:
+  Resolution: Prea dificilă, 24371 clauze generate, 104.362298 sec, CPU: 95.765625 sec, Mem: 0.00 MB
+  DP: Satisfiable, 163 pași, 1.957379 sec, CPU: 1.859375 sec, Mem: 1.08 MB
+  DPLL: Satisfiable, 76 pași, 0.123943 sec, CPU: 0.125000 sec, Mem: 5.07 MB
+
+Set 318:
+  Resolution: Prea dificilă, 26239 clauze generate, 111.658107 sec, CPU: 103.609375 sec, Mem: 0.00 MB
+  DP: Satisfiable, 164 pași, 1.687795 sec, CPU: 1.515625 sec, Mem: 0.52 MB
+  DPLL: Satisfiable, 69 pași, 0.121893 sec, CPU: 0.093750 sec, Mem: 5.27 MB
+
+Set 319:
+  Resolution: Unsatisfiable, 200 clauze generate, 4.499436 sec, CPU: 3.875000 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 138 pași, 1.428579 sec, CPU: 1.375000 sec, Mem: 0.89 MB
+  DPLL: Unsatisfiable, 2 pași, 0.012478 sec, CPU: 0.000000 sec, Mem: 0.14 MB
+
+Set 320:
+  Resolution: Unsatisfiable, 200 clauze generate, 12.601685 sec, CPU: 10.890625 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 181 pași, 2.039438 sec, CPU: 1.843750 sec, Mem: 1.74 MB
+  DPLL: Unsatisfiable, 2 pași, 0.012278 sec, CPU: 0.000000 sec, Mem: 0.05 MB
+
+Set 321:
+  Resolution: Prea dificilă, 22528 clauze generate, 101.097348 sec, CPU: 94.734375 sec, Mem: 0.00 MB
+  DP: Satisfiable, 147 pași, 1.862617 sec, CPU: 1.531250 sec, Mem: 0.46 MB
+  DPLL: Satisfiable, 82 pași, 0.130511 sec, CPU: 0.109375 sec, Mem: 0.37 MB
+
+Set 322:
+  Resolution: Prea dificilă, 26417 clauze generate, 119.470494 sec, CPU: 109.968750 sec, Mem: 0.00 MB
+  DP: Satisfiable, 164 pași, 1.715593 sec, CPU: 1.703125 sec, Mem: 1.21 MB
+  DPLL: Satisfiable, 66 pași, 0.108956 sec, CPU: 0.109375 sec, Mem: 4.61 MB
+
+Set 323:
+  Resolution: Unsatisfiable, 200 clauze generate, 0.627503 sec, CPU: 0.484375 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 178 pași, 1.745454 sec, CPU: 1.453125 sec, Mem: 1.18 MB
+  DPLL: Unsatisfiable, 2 pași, 0.008999 sec, CPU: 0.015625 sec, Mem: 0.00 MB
+
+Set 324:
+  Resolution: Prea dificilă, 24910 clauze generate, 113.167473 sec, CPU: 104.687500 sec, Mem: 0.00 MB
+  DP: Satisfiable, 183 pași, 1.947475 sec, CPU: 1.843750 sec, Mem: 1.33 MB
+  DPLL: Satisfiable, 67 pași, 0.104632 sec, CPU: 0.078125 sec, Mem: 3.98 MB
+
+Set 325:
+  Resolution: Prea dificilă, 26849 clauze generate, 122.403807 sec, CPU: 112.937500 sec, Mem: 0.25 MB
+  DP: Satisfiable, 159 pași, 1.535656 sec, CPU: 1.453125 sec, Mem: 0.42 MB
+  DPLL: Satisfiable, 72 pași, 0.136798 sec, CPU: 0.125000 sec, Mem: 5.07 MB
+
+Set 326:
+  Resolution: Prea dificilă, 25995 clauze generate, 107.673155 sec, CPU: 101.437500 sec, Mem: 0.00 MB
+  DP: Satisfiable, 165 pași, 1.921476 sec, CPU: 1.656250 sec, Mem: 1.07 MB
+  DPLL: Satisfiable, 71 pași, 0.118679 sec, CPU: 0.093750 sec, Mem: 4.52 MB
+
+Set 327:
+  Resolution: Unsatisfiable, 200 clauze generate, 16.469004 sec, CPU: 14.843750 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 168 pași, 1.486485 sec, CPU: 1.203125 sec, Mem: 1.30 MB
+  DPLL: Unsatisfiable, 2 pași, 0.009871 sec, CPU: 0.015625 sec, Mem: 0.05 MB
+
+Set 328:
+  Resolution: Prea dificilă, 22031 clauze generate, 93.347186 sec, CPU: 87.265625 sec, Mem: 0.00 MB
+  DP: Satisfiable, 161 pași, 2.239754 sec, CPU: 1.890625 sec, Mem: 0.00 MB
+  DPLL: Satisfiable, 70 pași, 0.142188 sec, CPU: 0.109375 sec, Mem: 4.73 MB
+
+Set 329:
+  Resolution: Unsatisfiable, 200 clauze generate, 3.992031 sec, CPU: 3.312500 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 13 pași, 1.620371 sec, CPU: 1.468750 sec, Mem: 1.29 MB
+  DPLL: Unsatisfiable, 2 pași, 0.006812 sec, CPU: 0.000000 sec, Mem: 0.01 MB
+
+Set 330:
+  Resolution: Unsatisfiable, 200 clauze generate, 48.723523 sec, CPU: 45.484375 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 168 pași, 1.345723 sec, CPU: 1.234375 sec, Mem: 0.81 MB
+  DPLL: Unsatisfiable, 2 pași, 0.010958 sec, CPU: 0.015625 sec, Mem: 0.07 MB
+
+Set 331:
+  Resolution: Prea dificilă, 22688 clauze generate, 97.522190 sec, CPU: 91.921875 sec, Mem: 0.00 MB
+  DP: Satisfiable, 143 pași, 1.897704 sec, CPU: 1.656250 sec, Mem: 0.75 MB
+  DPLL: Satisfiable, 68 pași, 0.098202 sec, CPU: 0.093750 sec, Mem: 4.00 MB
+
+Set 332:
+  Resolution: Unsatisfiable, 200 clauze generate, 2.992683 sec, CPU: 2.703125 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 176 pași, 2.005071 sec, CPU: 1.796875 sec, Mem: 1.36 MB
+  DPLL: Unsatisfiable, 2 pași, 0.007069 sec, CPU: 0.000000 sec, Mem: 0.00 MB
+
+Set 333:
+  Resolution: Prea dificilă, 22838 clauze generate, 104.566044 sec, CPU: 97.843750 sec, Mem: 0.00 MB
+  DP: Satisfiable, 157 pași, 1.499572 sec, CPU: 1.359375 sec, Mem: 0.21 MB
+  DPLL: Satisfiable, 78 pași, 0.115821 sec, CPU: 0.125000 sec, Mem: 4.30 MB
+
+Set 334:
+  Resolution: Unsatisfiable, 200 clauze generate, 1.424473 sec, CPU: 1.375000 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 178 pași, 1.635881 sec, CPU: 1.578125 sec, Mem: 0.58 MB
+  DPLL: Unsatisfiable, 2 pași, 0.007683 sec, CPU: 0.015625 sec, Mem: 0.21 MB
+
+Set 335:
+  Resolution: Prea dificilă, 25062 clauze generate, 107.919032 sec, CPU: 101.656250 sec, Mem: 0.00 MB
+  DP: Satisfiable, 177 pași, 1.581114 sec, CPU: 1.390625 sec, Mem: 1.34 MB
+  DPLL: Satisfiable, 74 pași, 0.139252 sec, CPU: 0.109375 sec, Mem: 3.57 MB
+
+Set 336:
+  Resolution: Prea dificilă, 25268 clauze generate, 109.216827 sec, CPU: 101.328125 sec, Mem: 0.00 MB
+  DP: Satisfiable, 170 pași, 1.763305 sec, CPU: 1.500000 sec, Mem: 0.97 MB
+  DPLL: Satisfiable, 74 pași, 0.174127 sec, CPU: 0.109375 sec, Mem: 5.39 MB
+
+Set 337:
+  Resolution: Prea dificilă, 23523 clauze generate, 102.962002 sec, CPU: 95.546875 sec, Mem: 0.00 MB
+  DP: Satisfiable, 170 pași, 1.399286 sec, CPU: 1.234375 sec, Mem: 0.94 MB
+  DPLL: Satisfiable, 75 pași, 0.130811 sec, CPU: 0.125000 sec, Mem: 5.02 MB
+
+Set 338:
+  Resolution: Prea dificilă, 22583 clauze generate, 99.220290 sec, CPU: 91.484375 sec, Mem: 0.00 MB
+  DP: Satisfiable, 157 pași, 2.335618 sec, CPU: 2.234375 sec, Mem: 1.91 MB
+  DPLL: Satisfiable, 76 pași, 0.110323 sec, CPU: 0.109375 sec, Mem: 3.87 MB
+
+Set 339:
+  Resolution: Prea dificilă, 26136 clauze generate, 114.951167 sec, CPU: 106.046875 sec, Mem: 0.00 MB
+  DP: Satisfiable, 185 pași, 1.745852 sec, CPU: 1.671875 sec, Mem: 1.06 MB
+  DPLL: Satisfiable, 70 pași, 0.136777 sec, CPU: 0.109375 sec, Mem: 5.15 MB
+
+Set 340:
+  Resolution: Prea dificilă, 24773 clauze generate, 107.595027 sec, CPU: 100.640625 sec, Mem: 0.00 MB
+  DP: Satisfiable, 184 pași, 1.941326 sec, CPU: 1.718750 sec, Mem: 0.91 MB
+  DPLL: Satisfiable, 71 pași, 0.124088 sec, CPU: 0.093750 sec, Mem: 0.00 MB
+
+Set 341:
+  Resolution: Prea dificilă, 25535 clauze generate, 116.490361 sec, CPU: 107.234375 sec, Mem: 0.00 MB
+  DP: Satisfiable, 166 pași, 1.894996 sec, CPU: 1.593750 sec, Mem: 1.14 MB
+  DPLL: Satisfiable, 66 pași, 0.113032 sec, CPU: 0.109375 sec, Mem: 4.38 MB
+
+Set 342:
+  Resolution: Prea dificilă, 24562 clauze generate, 110.155151 sec, CPU: 102.328125 sec, Mem: 0.00 MB
+  DP: Satisfiable, 151 pași, 0.541114 sec, CPU: 0.515625 sec, Mem: 1.11 MB
+  DPLL: Satisfiable, 75 pași, 0.121059 sec, CPU: 0.125000 sec, Mem: 3.90 MB
+
+Set 343:
+  Resolution: Prea dificilă, 23754 clauze generate, 107.489593 sec, CPU: 99.656250 sec, Mem: 0.00 MB
+  DP: Satisfiable, 175 pași, 0.604450 sec, CPU: 0.546875 sec, Mem: 1.43 MB
+  DPLL: Satisfiable, 79 pași, 0.127555 sec, CPU: 0.109375 sec, Mem: 4.45 MB
+
+Set 344:
+  Resolution: Prea dificilă, 21072 clauze generate, 94.019746 sec, CPU: 88.062500 sec, Mem: 0.00 MB
+  DP: Satisfiable, 183 pași, 1.577991 sec, CPU: 1.515625 sec, Mem: 1.25 MB
+  DPLL: Satisfiable, 70 pași, 0.101028 sec, CPU: 0.093750 sec, Mem: 3.95 MB
+
+Set 345:
+  Resolution: Unsatisfiable, 200 clauze generate, 0.547886 sec, CPU: 0.468750 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 189 pași, 1.930000 sec, CPU: 1.812500 sec, Mem: 1.49 MB
+  DPLL: Unsatisfiable, 2 pași, 0.008391 sec, CPU: 0.000000 sec, Mem: 0.09 MB
+
+Set 346:
+  Resolution: Unsatisfiable, 200 clauze generate, 3.881102 sec, CPU: 3.765625 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 1 pași, 0.120052 sec, CPU: 0.109375 sec, Mem: 0.00 MB
+  DPLL: Unsatisfiable, 2 pași, 0.010534 sec, CPU: 0.000000 sec, Mem: 0.50 MB
+
+Set 347:
+  Resolution: Unsatisfiable, 200 clauze generate, 4.792094 sec, CPU: 4.625000 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 180 pași, 2.065634 sec, CPU: 2.062500 sec, Mem: 0.82 MB
+  DPLL: Unsatisfiable, 2 pași, 0.007091 sec, CPU: 0.000000 sec, Mem: 0.00 MB
+
+Set 348:
+  Resolution: Prea dificilă, 26803 clauze generate, 119.805812 sec, CPU: 108.625000 sec, Mem: 0.00 MB
+  DP: Satisfiable, 165 pași, 1.841779 sec, CPU: 1.562500 sec, Mem: 1.08 MB
+  DPLL: Satisfiable, 63 pași, 0.132699 sec, CPU: 0.078125 sec, Mem: 4.66 MB
+
+Set 349:
+  Resolution: Prea dificilă, 24386 clauze generate, 107.276590 sec, CPU: 98.609375 sec, Mem: 0.00 MB
+  DP: Satisfiable, 153 pași, 1.635414 sec, CPU: 1.531250 sec, Mem: 1.17 MB
+  DPLL: Satisfiable, 73 pași, 0.111714 sec, CPU: 0.093750 sec, Mem: 4.47 MB
+
+Set 350:
+  Resolution: Prea dificilă, 21615 clauze generate, 97.161459 sec, CPU: 89.218750 sec, Mem: 0.00 MB
+  DP: Satisfiable, 161 pași, 2.395507 sec, CPU: 2.031250 sec, Mem: 1.23 MB
+  DPLL: Satisfiable, 69 pași, 0.122103 sec, CPU: 0.093750 sec, Mem: 4.39 MB
+
+Set 351:
+  Resolution: Prea dificilă, 25148 clauze generate, 110.097857 sec, CPU: 102.531250 sec, Mem: 0.00 MB
+  DP: Satisfiable, 137 pași, 1.478286 sec, CPU: 1.281250 sec, Mem: 0.46 MB
+  DPLL: Satisfiable, 70 pași, 0.115407 sec, CPU: 0.093750 sec, Mem: 4.63 MB
+
+Set 352:
+  Resolution: Prea dificilă, 22461 clauze generate, 94.841800 sec, CPU: 88.359375 sec, Mem: 0.00 MB
+  DP: Satisfiable, 171 pași, 1.701169 sec, CPU: 1.625000 sec, Mem: 1.11 MB
+  DPLL: Satisfiable, 76 pași, 0.117181 sec, CPU: 0.093750 sec, Mem: 4.33 MB
+
+Set 353:
+  Resolution: Prea dificilă, 24281 clauze generate, 105.154409 sec, CPU: 98.437500 sec, Mem: 0.00 MB
+  DP: Satisfiable, 144 pași, 2.495673 sec, CPU: 2.125000 sec, Mem: 0.82 MB
+  DPLL: Satisfiable, 78 pași, 0.152883 sec, CPU: 0.140625 sec, Mem: 5.69 MB
+
+Set 354:
+  Resolution: Prea dificilă, 28487 clauze generate, 120.322769 sec, CPU: 111.453125 sec, Mem: 0.00 MB
+  DP: Satisfiable, 153 pași, 1.668468 sec, CPU: 1.468750 sec, Mem: 0.69 MB
+  DPLL: Satisfiable, 74 pași, 0.129801 sec, CPU: 0.125000 sec, Mem: 5.36 MB
+
+Set 355:
+  Resolution: Prea dificilă, 24056 clauze generate, 101.823107 sec, CPU: 95.140625 sec, Mem: 0.00 MB
+  DP: Satisfiable, 173 pași, 2.248801 sec, CPU: 1.890625 sec, Mem: 0.67 MB
+  DPLL: Satisfiable, 73 pași, 0.120993 sec, CPU: 0.109375 sec, Mem: 4.03 MB
+
+Set 356:
+  Resolution: Prea dificilă, 25157 clauze generate, 115.407230 sec, CPU: 106.343750 sec, Mem: 0.00 MB
+  DP: Satisfiable, 178 pași, 1.575344 sec, CPU: 1.375000 sec, Mem: 0.92 MB
+  DPLL: Satisfiable, 71 pași, 0.117248 sec, CPU: 0.109375 sec, Mem: 5.18 MB
+
+Set 357:
+  Resolution: Unsatisfiable, 200 clauze generate, 3.025284 sec, CPU: 2.812500 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 164 pași, 1.781295 sec, CPU: 1.484375 sec, Mem: 1.28 MB
+  DPLL: Unsatisfiable, 2 pași, 0.008039 sec, CPU: 0.000000 sec, Mem: 0.01 MB
+
+Set 358:
+  Resolution: Prea dificilă, 24592 clauze generate, 110.261696 sec, CPU: 100.359375 sec, Mem: 0.00 MB
+  DP: Satisfiable, 177 pași, 1.509282 sec, CPU: 1.437500 sec, Mem: 0.95 MB
+  DPLL: Satisfiable, 75 pași, 0.109617 sec, CPU: 0.093750 sec, Mem: 4.54 MB
+
+Set 359:
+  Resolution: Unsatisfiable, 200 clauze generate, 0.982319 sec, CPU: 0.859375 sec, Mem: 0.04 MB
+  DP: Unsatisfiable, 193 pași, 1.910213 sec, CPU: 1.812500 sec, Mem: 0.14 MB
+  DPLL: Unsatisfiable, 2 pași, 0.009986 sec, CPU: 0.000000 sec, Mem: 0.01 MB
+
+Set 360:
+  Resolution: Prea dificilă, 24561 clauze generate, 108.867162 sec, CPU: 100.328125 sec, Mem: 0.00 MB
+  DP: Satisfiable, 174 pași, 1.955199 sec, CPU: 1.781250 sec, Mem: 1.02 MB
+  DPLL: Satisfiable, 78 pași, 0.122766 sec, CPU: 0.078125 sec, Mem: 5.71 MB
+
+Set 361:
+  Resolution: Prea dificilă, 24650 clauze generate, 107.592147 sec, CPU: 98.046875 sec, Mem: 0.00 MB
+  DP: Satisfiable, 144 pași, 1.778178 sec, CPU: 1.500000 sec, Mem: 0.64 MB
+  DPLL: Satisfiable, 71 pași, 0.168444 sec, CPU: 0.140625 sec, Mem: 4.64 MB
+
+Set 362:
+  Resolution: Prea dificilă, 23546 clauze generate, 102.873379 sec, CPU: 94.343750 sec, Mem: 0.00 MB
+  DP: Satisfiable, 192 pași, 1.378900 sec, CPU: 1.078125 sec, Mem: 0.83 MB
+  DPLL: Satisfiable, 71 pași, 0.122440 sec, CPU: 0.093750 sec, Mem: 4.88 MB
+
+Set 363:
+  Resolution: Prea dificilă, 24442 clauze generate, 109.972287 sec, CPU: 101.640625 sec, Mem: 0.00 MB
+  DP: Satisfiable, 162 pași, 2.020313 sec, CPU: 1.765625 sec, Mem: 1.17 MB
+  DPLL: Satisfiable, 77 pași, 0.153271 sec, CPU: 0.125000 sec, Mem: 4.57 MB
+
+Set 364:
+  Resolution: Prea dificilă, 19993 clauze generate, 82.976532 sec, CPU: 75.515625 sec, Mem: 0.00 MB
+  DP: Satisfiable, 194 pași, 2.019130 sec, CPU: 1.718750 sec, Mem: 1.11 MB
+  DPLL: Satisfiable, 76 pași, 0.134665 sec, CPU: 0.125000 sec, Mem: 4.96 MB
+
+Set 365:
+  Resolution: Unsatisfiable, 200 clauze generate, 3.681627 sec, CPU: 3.281250 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 5 pași, 0.580107 sec, CPU: 0.531250 sec, Mem: 0.87 MB
+  DPLL: Unsatisfiable, 2 pași, 0.013342 sec, CPU: 0.015625 sec, Mem: 0.32 MB
+
+Set 366:
+  Resolution: Unsatisfiable, 200 clauze generate, 0.622470 sec, CPU: 0.609375 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 168 pași, 1.728176 sec, CPU: 1.531250 sec, Mem: 0.86 MB
+  DPLL: Unsatisfiable, 2 pași, 0.012764 sec, CPU: 0.000000 sec, Mem: 0.09 MB
+
+Set 367:
+  Resolution: Prea dificilă, 24420 clauze generate, 108.373354 sec, CPU: 98.015625 sec, Mem: 0.00 MB
+  DP: Satisfiable, 165 pași, 2.010760 sec, CPU: 1.875000 sec, Mem: 1.24 MB
+  DPLL: Satisfiable, 66 pași, 0.125347 sec, CPU: 0.109375 sec, Mem: 4.62 MB
+
+Set 368:
+  Resolution: Prea dificilă, 25713 clauze generate, 116.211860 sec, CPU: 105.828125 sec, Mem: 0.00 MB
+  DP: Satisfiable, 154 pași, 1.494226 sec, CPU: 1.375000 sec, Mem: 0.11 MB
+  DPLL: Satisfiable, 71 pași, 0.111812 sec, CPU: 0.109375 sec, Mem: 5.08 MB
+
+Set 369:
+  Resolution: Unsatisfiable, 200 clauze generate, 6.992519 sec, CPU: 6.343750 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 177 pași, 1.411983 sec, CPU: 1.218750 sec, Mem: 1.06 MB
+  DPLL: Unsatisfiable, 2 pași, 0.008446 sec, CPU: 0.000000 sec, Mem: 0.37 MB
+
+Set 370:
+  Resolution: Prea dificilă, 23920 clauze generate, 105.938819 sec, CPU: 97.328125 sec, Mem: 0.00 MB
+  DP: Satisfiable, 168 pași, 1.869019 sec, CPU: 1.765625 sec, Mem: 0.52 MB
+  DPLL: Satisfiable, 73 pași, 0.120027 sec, CPU: 0.093750 sec, Mem: 4.75 MB
+
+Set 371:
+  Resolution: Prea dificilă, 23921 clauze generate, 107.996875 sec, CPU: 97.781250 sec, Mem: 0.00 MB
+  DP: Satisfiable, 163 pași, 2.276623 sec, CPU: 2.234375 sec, Mem: 0.79 MB
+  DPLL: Satisfiable, 73 pași, 0.134299 sec, CPU: 0.093750 sec, Mem: 4.77 MB
+
+Set 372:
+  Resolution: Unsatisfiable, 200 clauze generate, 0.136041 sec, CPU: 0.109375 sec, Mem: 0.59 MB
+  DP: Unsatisfiable, 168 pași, 1.737419 sec, CPU: 1.515625 sec, Mem: 0.02 MB
+  DPLL: Unsatisfiable, 2 pași, 0.010079 sec, CPU: 0.000000 sec, Mem: 0.00 MB
+
+Set 373:
+  Resolution: Unsatisfiable, 200 clauze generate, 11.441277 sec, CPU: 10.578125 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 124 pași, 1.602975 sec, CPU: 1.484375 sec, Mem: 1.09 MB
+  DPLL: Unsatisfiable, 2 pași, 0.006376 sec, CPU: 0.000000 sec, Mem: 0.20 MB
+
+Set 374:
+  Resolution: Unsatisfiable, 200 clauze generate, 1.955530 sec, CPU: 1.812500 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 155 pași, 1.425302 sec, CPU: 1.390625 sec, Mem: 0.84 MB
+  DPLL: Unsatisfiable, 2 pași, 0.008867 sec, CPU: 0.000000 sec, Mem: 0.30 MB
+
+Set 375:
+  Resolution: Prea dificilă, 26314 clauze generate, 117.548953 sec, CPU: 106.812500 sec, Mem: 0.23 MB
+  DP: Satisfiable, 159 pași, 2.060497 sec, CPU: 1.687500 sec, Mem: 0.59 MB
+  DPLL: Satisfiable, 65 pași, 0.122920 sec, CPU: 0.093750 sec, Mem: 4.35 MB
+
+Set 376:
+  Resolution: Prea dificilă, 21239 clauze generate, 95.713288 sec, CPU: 88.046875 sec, Mem: 0.00 MB
+  DP: Satisfiable, 154 pași, 2.145916 sec, CPU: 2.062500 sec, Mem: 1.15 MB
+  DPLL: Satisfiable, 79 pași, 0.116384 sec, CPU: 0.109375 sec, Mem: 3.37 MB
+
+Set 377:
+  Resolution: Prea dificilă, 25423 clauze generate, 108.013403 sec, CPU: 100.734375 sec, Mem: 0.00 MB
+  DP: Satisfiable, 144 pași, 1.967051 sec, CPU: 1.609375 sec, Mem: 1.20 MB
+  DPLL: Satisfiable, 67 pași, 0.140501 sec, CPU: 0.078125 sec, Mem: 5.08 MB
+
+Set 378:
+  Resolution: Unsatisfiable, 200 clauze generate, 65.741077 sec, CPU: 60.531250 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 187 pași, 2.221209 sec, CPU: 2.046875 sec, Mem: 0.50 MB
+  DPLL: Unsatisfiable, 2 pași, 0.018250 sec, CPU: 0.015625 sec, Mem: 0.00 MB
+
+Set 379:
+  Resolution: Unsatisfiable, 200 clauze generate, 0.782205 sec, CPU: 0.671875 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 152 pași, 1.655199 sec, CPU: 1.437500 sec, Mem: 0.22 MB
+  DPLL: Unsatisfiable, 2 pași, 0.015797 sec, CPU: 0.000000 sec, Mem: 0.21 MB
+
+Set 380:
+  Resolution: Prea dificilă, 22631 clauze generate, 103.808320 sec, CPU: 94.062500 sec, Mem: 0.00 MB
+  DP: Satisfiable, 169 pași, 1.395019 sec, CPU: 1.375000 sec, Mem: 1.20 MB
+  DPLL: Satisfiable, 74 pași, 0.088287 sec, CPU: 0.078125 sec, Mem: 4.51 MB
+
+Set 381:
+  Resolution: Prea dificilă, 26129 clauze generate, 108.974704 sec, CPU: 100.312500 sec, Mem: 0.00 MB
+  DP: Satisfiable, 195 pași, 1.942182 sec, CPU: 1.640625 sec, Mem: 1.54 MB
+  DPLL: Satisfiable, 82 pași, 0.098345 sec, CPU: 0.093750 sec, Mem: 4.53 MB
+
+Set 382:
+  Resolution: Prea dificilă, 21750 clauze generate, 96.290787 sec, CPU: 88.703125 sec, Mem: 0.00 MB
+  DP: Satisfiable, 173 pași, 1.920365 sec, CPU: 1.859375 sec, Mem: 1.82 MB
+  DPLL: Satisfiable, 72 pași, 0.135462 sec, CPU: 0.109375 sec, Mem: 3.81 MB
+
+Set 383:
+  Resolution: Prea dificilă, 24169 clauze generate, 103.099236 sec, CPU: 95.203125 sec, Mem: 0.00 MB
+  DP: Satisfiable, 132 pași, 1.444838 sec, CPU: 1.296875 sec, Mem: 1.40 MB
+  DPLL: Satisfiable, 74 pași, 0.109119 sec, CPU: 0.078125 sec, Mem: 5.05 MB
+
+Set 384:
+  Resolution: Unsatisfiable, 200 clauze generate, 7.973145 sec, CPU: 7.359375 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 3 pași, 0.381629 sec, CPU: 0.328125 sec, Mem: 0.71 MB
+  DPLL: Unsatisfiable, 2 pași, 0.013085 sec, CPU: 0.015625 sec, Mem: 0.50 MB
+
+Set 385:
+  Resolution: Prea dificilă, 24049 clauze generate, 103.502078 sec, CPU: 95.312500 sec, Mem: 0.00 MB
+  DP: Satisfiable, 176 pași, 1.650715 sec, CPU: 1.546875 sec, Mem: 0.88 MB
+  DPLL: Satisfiable, 68 pași, 0.100927 sec, CPU: 0.093750 sec, Mem: 4.59 MB
+
+Set 386:
+  Resolution: Prea dificilă, 21092 clauze generate, 87.566936 sec, CPU: 81.531250 sec, Mem: 0.00 MB
+  DP: Satisfiable, 174 pași, 1.214845 sec, CPU: 1.000000 sec, Mem: 0.44 MB
+  DPLL: Satisfiable, 74 pași, 0.125968 sec, CPU: 0.093750 sec, Mem: 4.74 MB
+
+Set 387:
+  Resolution: Prea dificilă, 22963 clauze generate, 100.329130 sec, CPU: 92.546875 sec, Mem: 0.00 MB
+  DP: Satisfiable, 178 pași, 1.597038 sec, CPU: 1.500000 sec, Mem: 0.63 MB
+  DPLL: Satisfiable, 75 pași, 0.112611 sec, CPU: 0.093750 sec, Mem: 4.05 MB
+
+Set 388:
+  Resolution: Prea dificilă, 21868 clauze generate, 95.257727 sec, CPU: 87.765625 sec, Mem: 0.00 MB
+  DP: Satisfiable, 161 pași, 1.475415 sec, CPU: 1.390625 sec, Mem: 1.33 MB
+  DPLL: Satisfiable, 80 pași, 0.112001 sec, CPU: 0.109375 sec, Mem: 5.00 MB
+
+Set 389:
+  Resolution: Prea dificilă, 24517 clauze generate, 106.966534 sec, CPU: 98.281250 sec, Mem: 0.00 MB
+  DP: Satisfiable, 153 pași, 1.931542 sec, CPU: 1.687500 sec, Mem: 1.42 MB
+  DPLL: Satisfiable, 66 pași, 0.132146 sec, CPU: 0.093750 sec, Mem: 4.92 MB
+
+Set 390:
+  Resolution: Prea dificilă, 22904 clauze generate, 101.336521 sec, CPU: 92.765625 sec, Mem: 0.00 MB
+  DP: Satisfiable, 175 pași, 2.211007 sec, CPU: 2.078125 sec, Mem: 0.79 MB
+  DPLL: Satisfiable, 77 pași, 0.111124 sec, CPU: 0.093750 sec, Mem: 4.19 MB
+
+Set 391:
+  Resolution: Prea dificilă, 24109 clauze generate, 106.636433 sec, CPU: 97.812500 sec, Mem: 0.00 MB
+  DP: Satisfiable, 167 pași, 1.783302 sec, CPU: 1.640625 sec, Mem: 1.11 MB
+  DPLL: Satisfiable, 71 pași, 0.114629 sec, CPU: 0.109375 sec, Mem: 4.73 MB
+
+Set 392:
+  Resolution: Prea dificilă, 22553 clauze generate, 99.850922 sec, CPU: 91.781250 sec, Mem: 0.00 MB
+  DP: Satisfiable, 171 pași, 1.591676 sec, CPU: 1.421875 sec, Mem: 1.13 MB
+  DPLL: Satisfiable, 76 pași, 0.129937 sec, CPU: 0.140625 sec, Mem: 4.12 MB
+
+Set 393:
+  Resolution: Unsatisfiable, 200 clauze generate, 5.946244 sec, CPU: 5.531250 sec, Mem: 23.19 MB
+  DP: Unsatisfiable, 173 pași, 1.877291 sec, CPU: 1.703125 sec, Mem: 0.00 MB
+  DPLL: Unsatisfiable, 2 pași, 0.008720 sec, CPU: 0.015625 sec, Mem: 0.00 MB
+
+Set 394:
+  Resolution: Prea dificilă, 23865 clauze generate, 101.746498 sec, CPU: 93.734375 sec, Mem: 0.00 MB
+  DP: Satisfiable, 129 pași, 1.560361 sec, CPU: 1.500000 sec, Mem: 1.29 MB
+  DPLL: Satisfiable, 79 pași, 0.129909 sec, CPU: 0.109375 sec, Mem: 5.23 MB
+
+Set 395:
+  Resolution: Unsatisfiable, 200 clauze generate, 27.248703 sec, CPU: 25.359375 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 162 pași, 1.857711 sec, CPU: 1.765625 sec, Mem: 1.23 MB
+  DPLL: Unsatisfiable, 2 pași, 0.006903 sec, CPU: 0.000000 sec, Mem: 0.01 MB
+
+Set 396:
+  Resolution: Prea dificilă, 20256 clauze generate, 90.153967 sec, CPU: 83.546875 sec, Mem: 0.00 MB
+  DP: Satisfiable, 173 pași, 1.918302 sec, CPU: 1.765625 sec, Mem: 1.33 MB
+  DPLL: Satisfiable, 83 pași, 0.114782 sec, CPU: 0.125000 sec, Mem: 4.09 MB
+
+Set 397:
+  Resolution: Prea dificilă, 23158 clauze generate, 99.265898 sec, CPU: 92.687500 sec, Mem: 0.00 MB
+  DP: Satisfiable, 183 pași, 1.730940 sec, CPU: 1.421875 sec, Mem: 0.98 MB
+  DPLL: Satisfiable, 73 pași, 0.126889 sec, CPU: 0.109375 sec, Mem: 4.48 MB
+
+Set 398:
+  Resolution: Unsatisfiable, 200 clauze generate, 0.044874 sec, CPU: 0.031250 sec, Mem: 1.20 MB
+  DP: Unsatisfiable, 169 pași, 2.335283 sec, CPU: 2.093750 sec, Mem: 0.01 MB
+  DPLL: Unsatisfiable, 2 pași, 0.012196 sec, CPU: 0.015625 sec, Mem: 0.00 MB
+
+Set 399:
+  Resolution: Prea dificilă, 21889 clauze generate, 93.597479 sec, CPU: 88.937500 sec, Mem: 0.00 MB
+  DP: Satisfiable, 162 pași, 2.031298 sec, CPU: 1.781250 sec, Mem: 1.58 MB
+  DPLL: Satisfiable, 72 pași, 0.107706 sec, CPU: 0.109375 sec, Mem: 3.77 MB
+
+Set 400:
+  Resolution: Prea dificilă, 25829 clauze generate, 113.496442 sec, CPU: 106.937500 sec, Mem: 0.00 MB
+  DP: Satisfiable, 144 pași, 1.384631 sec, CPU: 1.281250 sec, Mem: 1.00 MB
+  DPLL: Satisfiable, 67 pași, 0.123067 sec, CPU: 0.078125 sec, Mem: 4.20 MB
+
+Set 401:
+  Resolution: Unsatisfiable, 200 clauze generate, 1.970790 sec, CPU: 1.859375 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 174 pași, 2.010179 sec, CPU: 1.890625 sec, Mem: 1.37 MB
+  DPLL: Unsatisfiable, 2 pași, 0.009102 sec, CPU: 0.000000 sec, Mem: 0.02 MB
+
+Set 402:
+  Resolution: Prea dificilă, 21953 clauze generate, 100.254863 sec, CPU: 93.750000 sec, Mem: 0.00 MB
+  DP: Satisfiable, 179 pași, 2.126146 sec, CPU: 1.843750 sec, Mem: 1.21 MB
+  DPLL: Satisfiable, 78 pași, 0.138596 sec, CPU: 0.109375 sec, Mem: 3.59 MB
+
+Set 403:
+  Resolution: Prea dificilă, 24553 clauze generate, 107.118279 sec, CPU: 100.625000 sec, Mem: 0.00 MB
+  DP: Satisfiable, 189 pași, 2.214673 sec, CPU: 2.046875 sec, Mem: 0.83 MB
+  DPLL: Satisfiable, 75 pași, 0.126378 sec, CPU: 0.125000 sec, Mem: 4.27 MB
+
+Set 404:
+  Resolution: Prea dificilă, 24655 clauze generate, 109.071898 sec, CPU: 101.609375 sec, Mem: 0.00 MB
+  DP: Satisfiable, 119 pași, 2.151964 sec, CPU: 1.843750 sec, Mem: 1.92 MB
+  DPLL: Satisfiable, 70 pași, 0.101357 sec, CPU: 0.109375 sec, Mem: 3.54 MB
+
+Set 405:
+  Resolution: Unsatisfiable, 200 clauze generate, 1.005622 sec, CPU: 0.859375 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 193 pași, 2.100193 sec, CPU: 1.843750 sec, Mem: 0.93 MB
+  DPLL: Unsatisfiable, 2 pași, 0.008977 sec, CPU: 0.000000 sec, Mem: 0.00 MB
+
+Set 406:
+  Resolution: Prea dificilă, 21796 clauze generate, 94.147862 sec, CPU: 88.078125 sec, Mem: 0.00 MB
+  DP: Satisfiable, 166 pași, 2.381131 sec, CPU: 2.031250 sec, Mem: 1.37 MB
+  DPLL: Satisfiable, 74 pași, 0.117060 sec, CPU: 0.093750 sec, Mem: 3.68 MB
+
+Set 407:
+  Resolution: Prea dificilă, 21799 clauze generate, 94.040789 sec, CPU: 88.203125 sec, Mem: 0.00 MB
+  DP: Satisfiable, 167 pași, 1.905197 sec, CPU: 1.593750 sec, Mem: 1.26 MB
+  DPLL: Satisfiable, 76 pași, 0.132950 sec, CPU: 0.109375 sec, Mem: 0.00 MB
+
+Set 408:
+  Resolution: Prea dificilă, 23368 clauze generate, 99.904012 sec, CPU: 93.562500 sec, Mem: 0.00 MB
+  DP: Satisfiable, 157 pași, 1.917615 sec, CPU: 1.750000 sec, Mem: 1.49 MB
+  DPLL: Satisfiable, 69 pași, 0.109918 sec, CPU: 0.093750 sec, Mem: 4.05 MB
+
+Set 409:
+  Resolution: Prea dificilă, 21966 clauze generate, 95.891147 sec, CPU: 88.531250 sec, Mem: 0.00 MB
+  DP: Satisfiable, 150 pași, 2.332083 sec, CPU: 2.203125 sec, Mem: 1.82 MB
+  DPLL: Satisfiable, 67 pași, 0.065090 sec, CPU: 0.078125 sec, Mem: 3.66 MB
+
+Set 410:
+  Resolution: Prea dificilă, 23386 clauze generate, 103.129682 sec, CPU: 94.718750 sec, Mem: 0.00 MB
+  DP: Satisfiable, 172 pași, 1.779144 sec, CPU: 1.640625 sec, Mem: 0.85 MB
+  DPLL: Satisfiable, 76 pași, 0.090362 sec, CPU: 0.078125 sec, Mem: 4.71 MB
+
+Set 411:
+  Resolution: Prea dificilă, 22895 clauze generate, 103.009285 sec, CPU: 95.937500 sec, Mem: 0.00 MB
+  DP: Satisfiable, 187 pași, 2.406689 sec, CPU: 2.015625 sec, Mem: 1.14 MB
+  DPLL: Satisfiable, 75 pași, 0.139589 sec, CPU: 0.093750 sec, Mem: 0.00 MB
+
+Set 412:
+  Resolution: Prea dificilă, 23040 clauze generate, 101.976290 sec, CPU: 94.359375 sec, Mem: 0.00 MB
+  DP: Satisfiable, 160 pași, 1.826753 sec, CPU: 1.703125 sec, Mem: 0.23 MB
+  DPLL: Satisfiable, 73 pași, 0.135442 sec, CPU: 0.125000 sec, Mem: 5.45 MB
+
+Set 413:
+  Resolution: Prea dificilă, 25727 clauze generate, 115.203907 sec, CPU: 105.921875 sec, Mem: 0.00 MB
+  DP: Satisfiable, 161 pași, 1.824536 sec, CPU: 1.656250 sec, Mem: 1.43 MB
+  DPLL: Satisfiable, 71 pași, 0.136312 sec, CPU: 0.093750 sec, Mem: 4.02 MB
+
+Set 414:
+  Resolution: Prea dificilă, 22569 clauze generate, 98.896516 sec, CPU: 90.078125 sec, Mem: 0.00 MB
+  DP: Satisfiable, 168 pași, 1.722597 sec, CPU: 1.656250 sec, Mem: 1.22 MB
+  DPLL: Satisfiable, 74 pași, 0.109048 sec, CPU: 0.093750 sec, Mem: 4.42 MB
+
+Set 415:
+  Resolution: Prea dificilă, 21323 clauze generate, 94.250019 sec, CPU: 85.609375 sec, Mem: 0.00 MB
+  DP: Satisfiable, 148 pași, 3.746949 sec, CPU: 3.421875 sec, Mem: 2.50 MB
+  DPLL: Satisfiable, 79 pași, 0.091934 sec, CPU: 0.062500 sec, Mem: 3.57 MB
+
+Set 416:
+  Resolution: Unsatisfiable, 200 clauze generate, 0.332574 sec, CPU: 0.265625 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 146 pași, 1.371587 sec, CPU: 1.171875 sec, Mem: 0.84 MB
+  DPLL: Unsatisfiable, 2 pași, 0.009244 sec, CPU: 0.015625 sec, Mem: 0.25 MB
+
+Set 417:
+  Resolution: Prea dificilă, 21862 clauze generate, 95.086293 sec, CPU: 88.859375 sec, Mem: 0.00 MB
+  DP: Satisfiable, 161 pași, 1.912421 sec, CPU: 1.734375 sec, Mem: 0.85 MB
+  DPLL: Satisfiable, 81 pași, 0.113105 sec, CPU: 0.109375 sec, Mem: 4.38 MB
+
+Set 418:
+  Resolution: Unsatisfiable, 200 clauze generate, 0.330767 sec, CPU: 0.328125 sec, Mem: 1.17 MB
+  DP: Unsatisfiable, 168 pași, 2.754103 sec, CPU: 2.203125 sec, Mem: 0.06 MB
+  DPLL: Unsatisfiable, 2 pași, 0.007842 sec, CPU: 0.015625 sec, Mem: 0.00 MB
+
+Set 419:
+  Resolution: Prea dificilă, 24318 clauze generate, 107.721530 sec, CPU: 99.468750 sec, Mem: 0.00 MB
+  DP: Satisfiable, 177 pași, 1.844445 sec, CPU: 1.734375 sec, Mem: 0.22 MB
+  DPLL: Satisfiable, 65 pași, 0.098469 sec, CPU: 0.093750 sec, Mem: 3.45 MB
+
+Set 420:
+  Resolution: Unsatisfiable, 200 clauze generate, 3.400462 sec, CPU: 3.203125 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 185 pași, 1.806686 sec, CPU: 1.562500 sec, Mem: 1.05 MB
+  DPLL: Unsatisfiable, 2 pași, 0.014155 sec, CPU: 0.000000 sec, Mem: 0.07 MB
+
+Set 421:
+  Resolution: Prea dificilă, 22799 clauze generate, 103.092492 sec, CPU: 94.265625 sec, Mem: 0.00 MB
+  DP: Satisfiable, 172 pași, 2.568830 sec, CPU: 2.250000 sec, Mem: 1.33 MB
+  DPLL: Satisfiable, 76 pași, 0.109012 sec, CPU: 0.093750 sec, Mem: 4.14 MB
+
+Set 422:
+  Resolution: Prea dificilă, 25590 clauze generate, 112.753928 sec, CPU: 104.296875 sec, Mem: 0.00 MB
+  DP: Satisfiable, 169 pași, 2.073853 sec, CPU: 1.937500 sec, Mem: 0.91 MB
+  DPLL: Satisfiable, 75 pași, 0.117614 sec, CPU: 0.093750 sec, Mem: 4.73 MB
+
+Set 423:
+  Resolution: Unsatisfiable, 200 clauze generate, 0.484381 sec, CPU: 0.328125 sec, Mem: 1.66 MB
+  DP: Unsatisfiable, 179 pași, 1.882432 sec, CPU: 1.703125 sec, Mem: 0.02 MB
+  DPLL: Unsatisfiable, 2 pași, 0.013163 sec, CPU: 0.000000 sec, Mem: 0.00 MB
+
+Set 424:
+  Resolution: Prea dificilă, 21999 clauze generate, 90.971999 sec, CPU: 85.546875 sec, Mem: 0.00 MB
+  DP: Satisfiable, 170 pași, 1.707379 sec, CPU: 1.468750 sec, Mem: 0.60 MB
+  DPLL: Satisfiable, 75 pași, 0.113063 sec, CPU: 0.093750 sec, Mem: 4.71 MB
+
+Set 425:
+  Resolution: Prea dificilă, 23132 clauze generate, 97.979157 sec, CPU: 92.000000 sec, Mem: 0.00 MB
+  DP: Satisfiable, 192 pași, 1.688586 sec, CPU: 1.625000 sec, Mem: 0.89 MB
+  DPLL: Satisfiable, 72 pași, 0.121089 sec, CPU: 0.109375 sec, Mem: 4.50 MB
+
+Set 426:
+  Resolution: Unsatisfiable, 200 clauze generate, 60.935852 sec, CPU: 56.375000 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 176 pași, 1.944315 sec, CPU: 1.734375 sec, Mem: 0.82 MB
+  DPLL: Unsatisfiable, 2 pași, 0.016392 sec, CPU: 0.015625 sec, Mem: 0.05 MB
+
+Set 427:
+  Resolution: Prea dificilă, 25030 clauze generate, 111.597296 sec, CPU: 104.453125 sec, Mem: 0.00 MB
+  DP: Satisfiable, 184 pași, 2.048925 sec, CPU: 1.734375 sec, Mem: 1.34 MB
+  DPLL: Satisfiable, 68 pași, 0.143715 sec, CPU: 0.093750 sec, Mem: 4.83 MB
+
+Set 428:
+  Resolution: Unsatisfiable, 200 clauze generate, 7.402644 sec, CPU: 6.437500 sec, Mem: 23.41 MB
+  DP: Unsatisfiable, 179 pași, 1.452365 sec, CPU: 1.312500 sec, Mem: 0.15 MB
+  DPLL: Unsatisfiable, 2 pași, 0.014448 sec, CPU: 0.000000 sec, Mem: 0.00 MB
+
+Set 429:
+  Resolution: Prea dificilă, 22984 clauze generate, 100.662849 sec, CPU: 93.218750 sec, Mem: 0.00 MB
+  DP: Satisfiable, 173 pași, 1.556845 sec, CPU: 1.312500 sec, Mem: 0.06 MB
+  DPLL: Satisfiable, 64 pași, 0.130156 sec, CPU: 0.109375 sec, Mem: 4.09 MB
+
+Set 430:
+  Resolution: Prea dificilă, 20411 clauze generate, 87.839049 sec, CPU: 81.937500 sec, Mem: 0.00 MB
+  DP: Satisfiable, 175 pași, 2.352802 sec, CPU: 2.140625 sec, Mem: 1.75 MB
+  DPLL: Satisfiable, 77 pași, 0.093238 sec, CPU: 0.078125 sec, Mem: 3.42 MB
+
+Set 431:
+  Resolution: Prea dificilă, 22931 clauze generate, 100.979543 sec, CPU: 94.078125 sec, Mem: 0.00 MB
+  DP: Satisfiable, 126 pași, 2.510204 sec, CPU: 2.015625 sec, Mem: 1.36 MB
+  DPLL: Satisfiable, 68 pași, 0.120054 sec, CPU: 0.078125 sec, Mem: 4.22 MB
+
+Set 432:
+  Resolution: Prea dificilă, 22885 clauze generate, 99.556565 sec, CPU: 94.140625 sec, Mem: 0.00 MB
+  DP: Satisfiable, 190 pași, 2.316818 sec, CPU: 1.859375 sec, Mem: 0.98 MB
+  DPLL: Satisfiable, 72 pași, 0.117073 sec, CPU: 0.078125 sec, Mem: 4.25 MB
+
+Set 433:
+  Resolution: Prea dificilă, 28020 clauze generate, 121.159735 sec, CPU: 113.421875 sec, Mem: 0.00 MB
+  DP: Satisfiable, 175 pași, 1.686527 sec, CPU: 1.406250 sec, Mem: 0.91 MB
+  DPLL: Satisfiable, 66 pași, 0.133422 sec, CPU: 0.125000 sec, Mem: 4.89 MB
+
+Set 434:
+  Resolution: Prea dificilă, 22915 clauze generate, 98.496253 sec, CPU: 91.078125 sec, Mem: 0.00 MB
+  DP: Satisfiable, 140 pași, 1.273873 sec, CPU: 1.218750 sec, Mem: 0.37 MB
+  DPLL: Satisfiable, 69 pași, 0.118767 sec, CPU: 0.093750 sec, Mem: 3.93 MB
+
+Set 435:
+  Resolution: Unsatisfiable, 200 clauze generate, 51.090463 sec, CPU: 47.281250 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 155 pași, 1.959663 sec, CPU: 1.593750 sec, Mem: 1.16 MB
+  DPLL: Unsatisfiable, 2 pași, 0.008058 sec, CPU: 0.015625 sec, Mem: 0.04 MB
+
+Set 436:
+  Resolution: Prea dificilă, 22004 clauze generate, 89.298632 sec, CPU: 83.953125 sec, Mem: 0.00 MB
+  DP: Satisfiable, 154 pași, 2.308866 sec, CPU: 2.203125 sec, Mem: 0.88 MB
+  DPLL: Satisfiable, 77 pași, 0.116474 sec, CPU: 0.109375 sec, Mem: 4.81 MB
+
+Set 437:
+  Resolution: Unsatisfiable, 200 clauze generate, 5.063295 sec, CPU: 4.828125 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 182 pași, 2.142198 sec, CPU: 2.031250 sec, Mem: 1.45 MB
+  DPLL: Unsatisfiable, 2 pași, 0.015638 sec, CPU: 0.000000 sec, Mem: 0.00 MB
+
+Set 438:
+  Resolution: Prea dificilă, 23706 clauze generate, 98.285180 sec, CPU: 92.125000 sec, Mem: 0.00 MB
+  DP: Satisfiable, 128 pași, 1.781937 sec, CPU: 1.562500 sec, Mem: 1.05 MB
+  DPLL: Satisfiable, 67 pași, 0.123207 sec, CPU: 0.093750 sec, Mem: 3.69 MB
+
+Set 439:
+  Resolution: Unsatisfiable, 200 clauze generate, 0.457081 sec, CPU: 0.421875 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 175 pași, 1.689654 sec, CPU: 1.593750 sec, Mem: 1.11 MB
+  DPLL: Unsatisfiable, 2 pași, 0.029213 sec, CPU: 0.000000 sec, Mem: 0.00 MB
+
+Set 440:
+  Resolution: Unsatisfiable, 200 clauze generate, 0.198766 sec, CPU: 0.156250 sec, Mem: 0.17 MB
+  DP: Unsatisfiable, 185 pași, 1.424071 sec, CPU: 1.250000 sec, Mem: 0.04 MB
+  DPLL: Unsatisfiable, 2 pași, 0.019948 sec, CPU: 0.000000 sec, Mem: 0.00 MB
+
+Set 441:
+  Resolution: Prea dificilă, 19740 clauze generate, 83.487880 sec, CPU: 78.125000 sec, Mem: 0.00 MB
+  DP: Satisfiable, 169 pași, 2.066478 sec, CPU: 1.812500 sec, Mem: 1.36 MB
+  DPLL: Satisfiable, 69 pași, 0.120635 sec, CPU: 0.125000 sec, Mem: 3.41 MB
+
+Set 442:
+  Resolution: Prea dificilă, 23481 clauze generate, 104.132469 sec, CPU: 97.593750 sec, Mem: 0.00 MB
+  DP: Satisfiable, 148 pași, 1.584733 sec, CPU: 1.562500 sec, Mem: 0.40 MB
+  DPLL: Satisfiable, 67 pași, 0.106679 sec, CPU: 0.093750 sec, Mem: 3.99 MB
+
+Set 443:
+  Resolution: Prea dificilă, 21493 clauze generate, 91.302539 sec, CPU: 84.937500 sec, Mem: 0.00 MB
+  DP: Satisfiable, 149 pași, 2.533144 sec, CPU: 2.500000 sec, Mem: 1.86 MB
+  DPLL: Satisfiable, 75 pași, 0.117042 sec, CPU: 0.093750 sec, Mem: 3.94 MB
+
+Set 444:
+  Resolution: Unsatisfiable, 200 clauze generate, 6.529390 sec, CPU: 5.796875 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 172 pași, 1.632549 sec, CPU: 1.500000 sec, Mem: 0.41 MB
+  DPLL: Unsatisfiable, 2 pași, 0.008681 sec, CPU: 0.000000 sec, Mem: 0.01 MB
+
+Set 445:
+  Resolution: Prea dificilă, 23293 clauze generate, 102.719808 sec, CPU: 96.093750 sec, Mem: 0.00 MB
+  DP: Satisfiable, 193 pași, 1.584499 sec, CPU: 1.484375 sec, Mem: 1.13 MB
+  DPLL: Satisfiable, 70 pași, 0.107923 sec, CPU: 0.093750 sec, Mem: 3.70 MB
+
+Set 446:
+  Resolution: Prea dificilă, 23024 clauze generate, 100.928034 sec, CPU: 94.781250 sec, Mem: 0.00 MB
+  DP: Satisfiable, 160 pași, 1.903988 sec, CPU: 1.796875 sec, Mem: 0.81 MB
+  DPLL: Satisfiable, 78 pași, 0.128303 sec, CPU: 0.109375 sec, Mem: 5.11 MB
+
+Set 447:
+  Resolution: Unsatisfiable, 200 clauze generate, 5.689637 sec, CPU: 5.500000 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 145 pași, 2.080639 sec, CPU: 1.796875 sec, Mem: 1.11 MB
+  DPLL: Unsatisfiable, 2 pași, 0.012687 sec, CPU: 0.000000 sec, Mem: 0.01 MB
+
+Set 448:
+  Resolution: Prea dificilă, 21540 clauze generate, 94.493392 sec, CPU: 89.078125 sec, Mem: 0.00 MB
+  DP: Satisfiable, 194 pași, 1.922711 sec, CPU: 1.843750 sec, Mem: 1.58 MB
+  DPLL: Satisfiable, 84 pași, 0.118057 sec, CPU: 0.109375 sec, Mem: 4.64 MB
+
+Set 449:
+  Resolution: Prea dificilă, 23822 clauze generate, 102.226649 sec, CPU: 96.484375 sec, Mem: 0.00 MB
+  DP: Satisfiable, 158 pași, 1.928374 sec, CPU: 1.609375 sec, Mem: 1.05 MB
+  DPLL: Satisfiable, 69 pași, 0.130847 sec, CPU: 0.093750 sec, Mem: 4.62 MB
+
+Set 450:
+  Resolution: Prea dificilă, 22444 clauze generate, 94.944595 sec, CPU: 87.828125 sec, Mem: 27.88 MB
+  DP: Satisfiable, 181 pași, 2.056538 sec, CPU: 1.828125 sec, Mem: 0.02 MB
+  DPLL: Satisfiable, 72 pași, 0.097080 sec, CPU: 0.062500 sec, Mem: 0.05 MB
+
+Set 451:
+  Resolution: Prea dificilă, 21717 clauze generate, 91.187213 sec, CPU: 85.812500 sec, Mem: 0.00 MB
+  DP: Satisfiable, 159 pași, 1.826907 sec, CPU: 1.609375 sec, Mem: 0.88 MB
+  DPLL: Satisfiable, 79 pași, 0.125481 sec, CPU: 0.109375 sec, Mem: 4.34 MB
+
+Set 452:
+  Resolution: Prea dificilă, 21882 clauze generate, 95.712622 sec, CPU: 88.859375 sec, Mem: 0.00 MB
+  DP: Satisfiable, 181 pași, 2.516987 sec, CPU: 2.281250 sec, Mem: 1.60 MB
+  DPLL: Satisfiable, 70 pași, 0.114556 sec, CPU: 0.078125 sec, Mem: 3.77 MB
+
+Set 453:
+  Resolution: Prea dificilă, 20537 clauze generate, 90.669836 sec, CPU: 83.656250 sec, Mem: 0.00 MB
+  DP: Satisfiable, 171 pași, 2.573801 sec, CPU: 2.359375 sec, Mem: 1.47 MB
+  DPLL: Satisfiable, 71 pași, 0.119944 sec, CPU: 0.093750 sec, Mem: 3.61 MB
+
+Set 454:
+  Resolution: Unsatisfiable, 200 clauze generate, 0.209081 sec, CPU: 0.156250 sec, Mem: 0.42 MB
+  DP: Unsatisfiable, 174 pași, 1.744402 sec, CPU: 1.640625 sec, Mem: 0.00 MB
+  DPLL: Unsatisfiable, 2 pași, 0.007946 sec, CPU: 0.000000 sec, Mem: 0.00 MB
+
+Set 455:
+  Resolution: Unsatisfiable, 200 clauze generate, 37.555223 sec, CPU: 35.093750 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 143 pași, 1.531901 sec, CPU: 1.453125 sec, Mem: 0.00 MB
+  DPLL: Unsatisfiable, 2 pași, 0.007588 sec, CPU: 0.015625 sec, Mem: 0.20 MB
+
+Set 456:
+  Resolution: Unsatisfiable, 200 clauze generate, 3.703289 sec, CPU: 3.453125 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 167 pași, 1.975932 sec, CPU: 1.656250 sec, Mem: 0.30 MB
+  DPLL: Unsatisfiable, 2 pași, 0.007951 sec, CPU: 0.015625 sec, Mem: 0.00 MB
+
+Set 457:
+  Resolution: Prea dificilă, 24359 clauze generate, 105.243050 sec, CPU: 98.656250 sec, Mem: 0.19 MB
+  DP: Satisfiable, 179 pași, 1.461688 sec, CPU: 1.343750 sec, Mem: 0.84 MB
+  DPLL: Satisfiable, 73 pași, 0.120299 sec, CPU: 0.109375 sec, Mem: 4.24 MB
+
+Set 458:
+  Resolution: Prea dificilă, 21385 clauze generate, 97.435546 sec, CPU: 90.625000 sec, Mem: 0.00 MB
+  DP: Satisfiable, 148 pași, 2.371396 sec, CPU: 2.171875 sec, Mem: 2.12 MB
+  DPLL: Satisfiable, 71 pași, 0.113044 sec, CPU: 0.125000 sec, Mem: 2.69 MB
+
+Set 459:
+  Resolution: Unsatisfiable, 200 clauze generate, 59.686633 sec, CPU: 55.656250 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 11 pași, 1.100624 sec, CPU: 1.015625 sec, Mem: 1.02 MB
+  DPLL: Unsatisfiable, 2 pași, 0.018986 sec, CPU: 0.000000 sec, Mem: 0.20 MB
+
+Set 460:
+  Resolution: Prea dificilă, 24337 clauze generate, 108.599533 sec, CPU: 100.062500 sec, Mem: 0.00 MB
+  DP: Satisfiable, 158 pași, 1.846944 sec, CPU: 1.640625 sec, Mem: 1.32 MB
+  DPLL: Satisfiable, 71 pași, 0.104303 sec, CPU: 0.093750 sec, Mem: 4.48 MB
+
+Set 461:
+  Resolution: Prea dificilă, 23458 clauze generate, 103.094431 sec, CPU: 95.218750 sec, Mem: 0.00 MB
+  DP: Satisfiable, 128 pași, 1.884003 sec, CPU: 1.734375 sec, Mem: 1.30 MB
+  DPLL: Satisfiable, 78 pași, 0.134097 sec, CPU: 0.125000 sec, Mem: 5.68 MB
+
+Set 462:
+  Resolution: Unsatisfiable, 200 clauze generate, 9.239333 sec, CPU: 8.765625 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 6 pași, 0.464019 sec, CPU: 0.453125 sec, Mem: 0.78 MB
+  DPLL: Unsatisfiable, 2 pași, 0.008909 sec, CPU: 0.000000 sec, Mem: 0.34 MB
+
+Set 463:
+  Resolution: Prea dificilă, 23725 clauze generate, 105.178620 sec, CPU: 96.531250 sec, Mem: 0.00 MB
+  DP: Satisfiable, 146 pași, 1.773333 sec, CPU: 1.468750 sec, Mem: 0.31 MB
+  DPLL: Satisfiable, 73 pași, 0.143194 sec, CPU: 0.093750 sec, Mem: 4.95 MB
+
+Set 464:
+  Resolution: Unsatisfiable, 200 clauze generate, 26.029559 sec, CPU: 24.062500 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 171 pași, 1.287171 sec, CPU: 1.218750 sec, Mem: 0.95 MB
+  DPLL: Unsatisfiable, 2 pași, 0.013680 sec, CPU: 0.000000 sec, Mem: 0.27 MB
+
+Set 465:
+  Resolution: Prea dificilă, 23360 clauze generate, 104.247833 sec, CPU: 96.265625 sec, Mem: 0.00 MB
+  DP: Satisfiable, 168 pași, 2.030171 sec, CPU: 1.718750 sec, Mem: 0.00 MB
+  DPLL: Satisfiable, 75 pași, 0.133595 sec, CPU: 0.093750 sec, Mem: 4.67 MB
+
+Set 466:
+  Resolution: Unsatisfiable, 200 clauze generate, 1.519181 sec, CPU: 1.296875 sec, Mem: 10.65 MB
+  DP: Unsatisfiable, 5 pași, 0.698506 sec, CPU: 0.578125 sec, Mem: 0.00 MB
+  DPLL: Unsatisfiable, 2 pași, 0.013455 sec, CPU: 0.015625 sec, Mem: 0.00 MB
+
+Set 467:
+  Resolution: Unsatisfiable, 200 clauze generate, 0.629076 sec, CPU: 0.500000 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 185 pași, 1.798869 sec, CPU: 1.500000 sec, Mem: 0.12 MB
+  DPLL: Unsatisfiable, 2 pași, 0.011667 sec, CPU: 0.000000 sec, Mem: 0.18 MB
+
+Set 468:
+  Resolution: Prea dificilă, 22870 clauze generate, 98.705431 sec, CPU: 91.375000 sec, Mem: 0.00 MB
+  DP: Satisfiable, 154 pași, 1.947706 sec, CPU: 1.656250 sec, Mem: 1.09 MB
+  DPLL: Satisfiable, 68 pași, 0.128170 sec, CPU: 0.093750 sec, Mem: 4.28 MB
+
+Set 469:
+  Resolution: Prea dificilă, 21641 clauze generate, 97.148299 sec, CPU: 91.046875 sec, Mem: 0.04 MB
+  DP: Satisfiable, 146 pași, 1.769105 sec, CPU: 1.484375 sec, Mem: 0.01 MB
+  DPLL: Satisfiable, 76 pași, 0.149201 sec, CPU: 0.125000 sec, Mem: 4.57 MB
+
+Set 470:
+  Resolution: Prea dificilă, 23279 clauze generate, 96.392628 sec, CPU: 90.265625 sec, Mem: 0.00 MB
+  DP: Satisfiable, 159 pași, 1.797315 sec, CPU: 1.515625 sec, Mem: 1.29 MB
+  DPLL: Satisfiable, 76 pași, 0.130135 sec, CPU: 0.109375 sec, Mem: 4.37 MB
+
+Set 471:
+  Resolution: Prea dificilă, 22663 clauze generate, 100.294088 sec, CPU: 92.343750 sec, Mem: 0.00 MB
+  DP: Satisfiable, 136 pași, 2.112014 sec, CPU: 1.984375 sec, Mem: 1.16 MB
+  DPLL: Satisfiable, 75 pași, 0.124778 sec, CPU: 0.109375 sec, Mem: 4.14 MB
+
+Set 472:
+  Resolution: Unsatisfiable, 200 clauze generate, 32.295578 sec, CPU: 30.734375 sec, Mem: 31.66 MB
+  DP: Unsatisfiable, 189 pași, 1.561597 sec, CPU: 1.343750 sec, Mem: 0.21 MB
+  DPLL: Unsatisfiable, 2 pași, 0.011315 sec, CPU: 0.000000 sec, Mem: 0.00 MB
+
+Set 473:
+  Resolution: Prea dificilă, 23495 clauze generate, 104.287609 sec, CPU: 96.390625 sec, Mem: 0.00 MB
+  DP: Satisfiable, 167 pași, 1.686121 sec, CPU: 1.640625 sec, Mem: 0.97 MB
+  DPLL: Satisfiable, 67 pași, 0.108464 sec, CPU: 0.078125 sec, Mem: 4.54 MB
+
+Set 474:
+  Resolution: Prea dificilă, 22172 clauze generate, 100.337291 sec, CPU: 91.609375 sec, Mem: 0.00 MB
+  DP: Satisfiable, 168 pași, 1.721215 sec, CPU: 1.640625 sec, Mem: 1.39 MB
+  DPLL: Satisfiable, 74 pași, 0.126338 sec, CPU: 0.109375 sec, Mem: 4.04 MB
+
+Set 475:
+  Resolution: Prea dificilă, 22081 clauze generate, 95.275624 sec, CPU: 88.000000 sec, Mem: 0.00 MB
+  DP: Satisfiable, 192 pași, 1.501112 sec, CPU: 1.421875 sec, Mem: 1.08 MB
+  DPLL: Satisfiable, 81 pași, 0.109456 sec, CPU: 0.109375 sec, Mem: 4.60 MB
+
+Set 476:
+  Resolution: Prea dificilă, 22439 clauze generate, 98.420087 sec, CPU: 91.390625 sec, Mem: 0.00 MB
+  DP: Satisfiable, 159 pași, 1.959183 sec, CPU: 1.906250 sec, Mem: 1.15 MB
+  DPLL: Satisfiable, 69 pași, 0.109436 sec, CPU: 0.109375 sec, Mem: 3.93 MB
+
+Set 477:
+  Resolution: Prea dificilă, 24545 clauze generate, 107.494989 sec, CPU: 98.656250 sec, Mem: 0.00 MB
+  DP: Satisfiable, 166 pași, 2.540425 sec, CPU: 1.953125 sec, Mem: 1.86 MB
+  DPLL: Satisfiable, 72 pași, 0.145628 sec, CPU: 0.125000 sec, Mem: 4.42 MB
+
+Set 478:
+  Resolution: Prea dificilă, 22966 clauze generate, 103.711684 sec, CPU: 94.546875 sec, Mem: 0.00 MB
+  DP: Satisfiable, 162 pași, 1.379544 sec, CPU: 1.359375 sec, Mem: 1.05 MB
+  DPLL: Satisfiable, 65 pași, 0.088508 sec, CPU: 0.093750 sec, Mem: 3.95 MB
+
+Set 479:
+  Resolution: Prea dificilă, 20138 clauze generate, 89.998935 sec, CPU: 81.875000 sec, Mem: 0.00 MB
+  DP: Satisfiable, 175 pași, 2.182801 sec, CPU: 1.859375 sec, Mem: 1.79 MB
+  DPLL: Satisfiable, 74 pași, 0.113019 sec, CPU: 0.109375 sec, Mem: 4.34 MB
+
+Set 480:
+  Resolution: Prea dificilă, 24312 clauze generate, 110.836651 sec, CPU: 101.828125 sec, Mem: 0.00 MB
+  DP: Satisfiable, 135 pași, 1.679289 sec, CPU: 1.531250 sec, Mem: 0.98 MB
+  DPLL: Satisfiable, 77 pași, 0.129365 sec, CPU: 0.109375 sec, Mem: 0.07 MB
+
+Set 481:
+  Resolution: Prea dificilă, 27540 clauze generate, 119.852332 sec, CPU: 111.203125 sec, Mem: 0.00 MB
+  DP: Satisfiable, 154 pași, 1.737689 sec, CPU: 1.562500 sec, Mem: 1.16 MB
+  DPLL: Satisfiable, 73 pași, 0.100087 sec, CPU: 0.109375 sec, Mem: 4.27 MB
+
+Set 482:
+  Resolution: Prea dificilă, 26268 clauze generate, 112.947184 sec, CPU: 104.859375 sec, Mem: 0.00 MB
+  DP: Satisfiable, 137 pași, 1.676805 sec, CPU: 1.484375 sec, Mem: 0.99 MB
+  DPLL: Satisfiable, 66 pași, 0.130377 sec, CPU: 0.125000 sec, Mem: 4.82 MB
+
+Set 483:
+  Resolution: Prea dificilă, 22550 clauze generate, 104.141465 sec, CPU: 95.218750 sec, Mem: 0.00 MB
+  DP: Satisfiable, 151 pași, 1.804163 sec, CPU: 1.609375 sec, Mem: 1.14 MB
+  DPLL: Satisfiable, 74 pași, 0.113160 sec, CPU: 0.109375 sec, Mem: 3.88 MB
+
+Set 484:
+  Resolution: Unsatisfiable, 200 clauze generate, 9.205273 sec, CPU: 8.578125 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 137 pași, 1.395065 sec, CPU: 1.343750 sec, Mem: 1.03 MB
+  DPLL: Unsatisfiable, 2 pași, 0.010292 sec, CPU: 0.000000 sec, Mem: 0.11 MB
+
+Set 485:
+  Resolution: Prea dificilă, 24746 clauze generate, 105.821214 sec, CPU: 97.765625 sec, Mem: 0.00 MB
+  DP: Satisfiable, 129 pași, 1.949641 sec, CPU: 1.687500 sec, Mem: 1.07 MB
+  DPLL: Satisfiable, 74 pași, 0.126341 sec, CPU: 0.109375 sec, Mem: 4.39 MB
+
+Set 486:
+  Resolution: Prea dificilă, 26491 clauze generate, 117.656684 sec, CPU: 109.000000 sec, Mem: 0.00 MB
+  DP: Satisfiable, 142 pași, 1.818656 sec, CPU: 1.812500 sec, Mem: 1.16 MB
+  DPLL: Satisfiable, 71 pași, 0.119462 sec, CPU: 0.125000 sec, Mem: 0.00 MB
+
+Set 487:
+  Resolution: Prea dificilă, 27529 clauze generate, 118.633447 sec, CPU: 109.468750 sec, Mem: 0.00 MB
+  DP: Satisfiable, 131 pași, 1.400305 sec, CPU: 1.375000 sec, Mem: 0.48 MB
+  DPLL: Satisfiable, 64 pași, 0.095408 sec, CPU: 0.093750 sec, Mem: 4.31 MB
+
+Set 488:
+  Resolution: Prea dificilă, 22050 clauze generate, 98.881337 sec, CPU: 90.640625 sec, Mem: 0.00 MB
+  DP: Satisfiable, 140 pași, 1.834377 sec, CPU: 1.671875 sec, Mem: 1.50 MB
+  DPLL: Satisfiable, 75 pași, 0.106277 sec, CPU: 0.109375 sec, Mem: 4.03 MB
+
+Set 489:
+  Resolution: Prea dificilă, 22420 clauze generate, 101.224014 sec, CPU: 92.812500 sec, Mem: 29.44 MB
+  DP: Satisfiable, 159 pași, 1.464223 sec, CPU: 1.437500 sec, Mem: 0.00 MB
+  DPLL: Satisfiable, 74 pași, 0.092650 sec, CPU: 0.093750 sec, Mem: 0.27 MB
+
+Set 490:
+  Resolution: Prea dificilă, 27461 clauze generate, 108.528168 sec, CPU: 104.015625 sec, Mem: 0.00 MB
+  DP: Satisfiable, 171 pași, 1.003024 sec, CPU: 0.937500 sec, Mem: 0.22 MB
+  DPLL: Satisfiable, 66 pași, 0.092470 sec, CPU: 0.078125 sec, Mem: 5.49 MB
+
+Set 491:
+  Resolution: Prea dificilă, 26232 clauze generate, 102.255415 sec, CPU: 97.937500 sec, Mem: 0.00 MB
+  DP: Satisfiable, 146 pași, 1.147502 sec, CPU: 1.125000 sec, Mem: 0.99 MB
+  DPLL: Satisfiable, 70 pași, 0.080557 sec, CPU: 0.078125 sec, Mem: 5.09 MB
+
+Set 492:
+  Resolution: Prea dificilă, 23178 clauze generate, 92.267455 sec, CPU: 87.765625 sec, Mem: 0.00 MB
+  DP: Satisfiable, 157 pași, 1.367109 sec, CPU: 1.375000 sec, Mem: 0.93 MB
+  DPLL: Satisfiable, 73 pași, 0.120514 sec, CPU: 0.078125 sec, Mem: 4.91 MB
+
+Set 493:
+  Resolution: Prea dificilă, 26457 clauze generate, 97.532777 sec, CPU: 94.500000 sec, Mem: 0.00 MB
+  DP: Satisfiable, 175 pași, 1.098588 sec, CPU: 1.093750 sec, Mem: 1.21 MB
+  DPLL: Satisfiable, 67 pași, 0.060327 sec, CPU: 0.046875 sec, Mem: 4.51 MB
+
+Set 494:
+  Resolution: Unsatisfiable, 200 clauze generate, 6.754532 sec, CPU: 6.218750 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 9 pași, 0.956911 sec, CPU: 0.875000 sec, Mem: 0.88 MB
+  DPLL: Unsatisfiable, 2 pași, 0.009678 sec, CPU: 0.000000 sec, Mem: 0.19 MB
+
+Set 495:
+  Resolution: Unsatisfiable, 200 clauze generate, 7.107684 sec, CPU: 6.812500 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 152 pași, 2.011062 sec, CPU: 1.921875 sec, Mem: 1.81 MB
+  DPLL: Unsatisfiable, 2 pași, 0.010419 sec, CPU: 0.015625 sec, Mem: 0.13 MB
+
+Set 496:
+  Resolution: Unsatisfiable, 200 clauze generate, 5.163705 sec, CPU: 4.828125 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 168 pași, 1.824872 sec, CPU: 1.687500 sec, Mem: 1.12 MB
+  DPLL: Unsatisfiable, 2 pași, 0.009614 sec, CPU: 0.015625 sec, Mem: 0.00 MB
+
+Set 497:
+  Resolution: Prea dificilă, 22772 clauze generate, 85.923166 sec, CPU: 83.828125 sec, Mem: 25.74 MB
+  DP: Satisfiable, 178 pași, 0.911394 sec, CPU: 0.875000 sec, Mem: 0.00 MB
+  DPLL: Satisfiable, 78 pași, 0.064301 sec, CPU: 0.062500 sec, Mem: 0.21 MB
+
+Set 498:
+  Resolution: Prea dificilă, 21987 clauze generate, 80.249275 sec, CPU: 77.703125 sec, Mem: 0.00 MB
+  DP: Satisfiable, 184 pași, 1.106967 sec, CPU: 1.109375 sec, Mem: 0.00 MB
+  DPLL: Satisfiable, 87 pași, 0.081934 sec, CPU: 0.078125 sec, Mem: 5.20 MB
+
+Set 499:
+  Resolution: Unsatisfiable, 200 clauze generate, 6.378116 sec, CPU: 5.625000 sec, Mem: 0.00 MB
+  DP: Unsatisfiable, 175 pași, 1.739670 sec, CPU: 1.625000 sec, Mem: 0.29 MB
+  DPLL: Unsatisfiable, 2 pași, 0.009589 sec, CPU: 0.000000 sec, Mem: 0.02 MB
+
+Set 500:
+  Resolution: Prea dificilă, 18680 clauze generate, 60.527847 sec, CPU: 59.406250 sec, Mem: 0.00 MB
+  DP: Satisfiable, 197 pași, 1.514775 sec, CPU: 1.484375 sec, Mem: 1.67 MB
+  DPLL: Satisfiable, 83 pași, 0.070093 sec, CPU: 0.078125 sec, Mem: 3.09 MB
+
